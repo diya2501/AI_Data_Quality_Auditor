@@ -1,0 +1,5 @@
+Metric,Before Cleaning,After Cleaning
+Total Rows,1000,991
+Total Columns,18,15
+Missing Values,44,27
+Duplicate Records,9,0

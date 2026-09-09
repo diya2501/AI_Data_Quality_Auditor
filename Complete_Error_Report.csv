@@ -1,0 +1,14 @@
+Error Type,Error Count
+Missing Values,44
+Duplicate Records,9
+Invalid Emails,13
+Invalid Phones,11
+Invalid Postal Codes,6
+Invalid Dates,7
+Invalid Prices,8
+Invalid Quantities,9
+Quantity Outliers,8
+Price Outliers,109
+City-State Mismatch,17
+Product-Category Mismatch,6
+Customer Consistency Errors,24

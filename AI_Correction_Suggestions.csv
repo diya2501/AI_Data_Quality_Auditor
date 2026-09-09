@@ -1,0 +1,37 @@
+order_id,Column,Original Value,Suggested Value,Reason
+ORD00019,email,name.example.com,Review email manually,Invalid email format
+ORD00098,email,name.example.com,Review email manually,Invalid email format
+ORD00177,email,name.example.com,Review email manually,Invalid email format
+ORD00256,email,name.example.com,Review email manually,Invalid email format
+ORD00335,email,name.example.com,Review email manually,Invalid email format
+ORD00414,email,name.example.com,Review email manually,Invalid email format
+ORD00493,email,name.example.com,Review email manually,Invalid email format
+ORD00572,email,name.example.com,Review email manually,Invalid email format
+ORD00651,email,name.example.com,Review email manually,Invalid email format
+ORD00730,email,name.example.com,Review email manually,Invalid email format
+ORD00809,email,name.example.com,Review email manually,Invalid email format
+ORD00888,email,name.example.com,Review email manually,Invalid email format
+ORD00967,email,name.example.com,Review email manually,Invalid email format
+ORD00042,state,,Karnataka,City-State mismatch
+ORD00095,state,Gujarat,Maharashtra,City-State mismatch
+ORD00139,state,,Maharashtra,City-State mismatch
+ORD00236,state,,Karnataka,City-State mismatch
+ORD00246,state,Maharashtra,Gujarat,City-State mismatch
+ORD00333,state,,Gujarat,City-State mismatch
+ORD00397,state,Maharashtra,Gujarat,City-State mismatch
+ORD00430,state,,Maharashtra,City-State mismatch
+ORD00527,state,,Rajasthan,City-State mismatch
+ORD00548,state,Gujarat,Maharashtra,City-State mismatch
+ORD00624,state,,Karnataka,City-State mismatch
+ORD00699,state,Gujarat,Maharashtra,City-State mismatch
+ORD00699,state,Gujarat,Maharashtra,City-State mismatch
+ORD00721,state,,Maharashtra,City-State mismatch
+ORD00818,state,,Rajasthan,City-State mismatch
+ORD00850,state,Gujarat,Delhi,City-State mismatch
+ORD00915,state,,Delhi,City-State mismatch
+ORD00108,category,Electronics,Stationery,Product-Category mismatch
+ORD00271,category,Electronics,Stationery,Product-Category mismatch
+ORD00434,category,Electronics,Fashion,Product-Category mismatch
+ORD00597,category,Fashion,Electronics,Product-Category mismatch
+ORD00760,category,Electronics,Fashion,Product-Category mismatch
+ORD00923,category,Electronics,Stationery,Product-Category mismatch

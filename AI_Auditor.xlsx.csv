@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,email,phone,city,state,postal_code,product_name,category,quantity,unit_price_inr,order_date,payment_method,order_status
+ORD00001,CUS0241,Riya Patel,riya.patel241@example.com,9466307900,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,3,299,20-01-2025,Credit Card,Delivered
+ORD00002,CUS0374,Kavya Joshi,kavya.joshi374@example.com,9894149307,Delhi,Delhi,110001,Cotton Kurta,Fashion,3,1199,21-06-2025,Net Banking,Returned
+ORD00003,CUS0273,Alisha Verma,alisha.verma273@example.com,9790973556,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,4,1499,17-08-2025,UPI,Delivered
+ORD00004,CUS0058,Tanvi Mehta,tanvi.mehta58@example.com,9405897992,Pune,Maharashtra,411001,Running Shoes,Fashion,2,2499,19-02-2025,Debit Card,Delivered
+ORD00005,CUS0272,Arjun Mehta,arjun.mehta272@example.com,9864406655,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,5,999,21-06-2025,UPI,Returned
+ORD00006,CUS0158,Yash Joshi,yash.joshi158@example.com,9494764958,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,5,599,25-07-2025,UPI,Processing
+ORD00007,CUS0029,Sneha Joshi,sneha.joshi29@example.com,9472657543,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,21-05-2025,Credit Card,Shipped
+ORD00008,CUS0267,Arjun Joshi,arjun.joshi267@example.com,9959372390,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,1,299,11-11-2025,Debit Card,Cancelled
+ORD00009,CUS0060,Aditi Verma,aditi.verma60@example.com,9715786040,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,1,1199,05-07-2025,Cash on Delivery,Processing
+ORD00010,CUS0280,Aditi Sharma,aditi.sharma280@example.com,9861970438,Ahmedabad,Gujarat,380001,Shampoo,Beauty,5,399,12-01-2025,Net Banking,Returned
+ORD00011,CUS0351,Diya Iyer,diya.iyer351@example.com,9611065773,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,1,799,05-09-2025,Debit Card,Shipped
+ORD00012,CUS0399,Aarav Gupta,aarav.gupta399@example.com,9506442335,Pune,Maharashtra,411001,Running Shoes,Fashion,3,2499,25-05-2025,Cash on Delivery,Cancelled
+ORD00013,CUS0084,Yash Verma,,9578252923,Pune,Maharashtra,411001,Desk Organizer,Stationery,3,599,11-06-2025,Net Banking,Processing
+ORD00014,CUS0028,Meera Khan,meera.khan28@example.com,9894586465,Hyderabad,Telangana,500001,Face Serum,Beauty,4,699,14-05-2025,UPI,Processing
+ORD00015,CUS0129,Arjun Gupta,arjun.gupta129@example.com,9280163305,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,4,599,04-10-2025,Cash on Delivery,Cancelled
+ORD00016,CUS0361,Varun Gupta,varun.gupta361@example.com,9782582312,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,2,799,17-10-2025,UPI,Cancelled
+ORD00017,CUS0303,Diya Mehta,diya.mehta303@example.com,9115248614,Hyderabad,Telangana,500001,Desk Organizer,Stationery,3,599,23-05-2025,Credit Card,Processing
+ORD00018,CUS0281,Kavya Iyer,kavya.iyer281@example.com,9582733051,Delhi,Delhi,110001,Wireless Mouse,Electronics,2,799,14-09-2025,Debit Card,Shipped
+ORD00019,CUS0317,Varun Verma,name.example.com,9870881173,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,4,299,13-04-2025,Cash on Delivery,Cancelled
+ORD00020,CUS0192,Riya Joshi,riya.joshi192@example.com,9813206061,Bengaluru,Karnataka,560001,Running Shoes,Fashion,1,2499,16-03-2025,Credit Card,Processing
+ORD00021,CUS0383,Ishaan Mehta,ishaan.mehta383@example.com,9190551967,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,1,299,20-04-2025,UPI,Cancelled
+ORD00022,CUS0032,Yash Jain,yash.jain32@example.com,9151267748,Nagpur,Maharashtra,440001,Water Bottle,Home,2,499,10-02-2025,Cash on Delivery,Processing
+ORD00023,CUS0257,Rohan Verma,rohan.verma257@example.com,9427788334,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,2,1199,08-06-2025,Net Banking,Returned
+ORD00024,CUS0013,Priya Mehta,priya.mehta13@example.com,9960247563,Bengaluru,Karnataka,560001,Running Shoes,Fashion,2,2499,28-03-2025,Net Banking,Returned
+ORD00025,CUS0326,Aditi Joshi,aditi.joshi326@example.com,9248995118,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,4,1199,11-04-2025,Net Banking,Delivered
+ORD00026,CUS0336,Rohan Joshi,rohan.joshi336@example.com,12345,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,1,1499,18-03-2025,Credit Card,Processing
+ORD00027,CUS0293,Yash Verma,yash.verma293@example.com,9745325313,Chennai,Tamil Nadu,600001,Face Serum,Beauty,1,699,27-06-2025,Net Banking,Cancelled
+ORD00028,CUS0251,Rahul Sharma,rahul.sharma251@example.com,9150399308,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,1,1199,01-09-2025,Credit Card,Shipped
+ORD00029,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,5,599,26-05-2025,Net Banking,Processing
+ORD00030,CUS0298,Diya Jain,diya.jain298@example.com,9990184007,Hyderabad,Telangana,500001,,Home,1,999,23-11-2025,Net Banking,Delivered
+ORD00031,CUS0395,Ananya Mehta,ananya.mehta395@example.com,9131250120,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,1,1199,04-05-2025,Credit Card,Returned
+ORD00032,CUS0397,Meera Khan,meera.khan397@example.com,9958979736,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,5,299,05-05-2025,UPI,Delivered
+ORD00033,CUS0047,Ananya Patel,ananya.patel47@example.com,9619178396,Pune,Maharashtra,411001,Cotton Kurta,Fashion,3,1199,02-05-2025,UPI,Delivered
+ORD00034,CUS0222,Aditi Verma,aditi.verma222@example.com,9147911827,nagpur,Maharashtra,440001,Wireless Mouse,Electronics,5,799,28-08-2025,Credit Card,Returned
+ORD00035,CUS0174,Alisha Iyer,alisha.iyer174@example.com,9918107408,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,5,1199,07-01-2025,Debit Card,Delivered
+ORD00036,CUS0279,Ishaan Sharma,ishaan.sharma279@example.com,9564422125,Chennai,Tamil Nadu,600001,Water Bottle,Home,3,499,04-07-2025,Credit Card,Returned
+ORD00037,CUS0253,Rohan Singh,rohan.singh253@example.com,9229477182,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,1,799,20-04-2025,Credit Card,Cancelled
+ORD00038,CUS0344,Rohan Mehta,rohan.mehta344@example.com,9625957341,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,5,1499,11-11-2025,Credit Card,Shipped
+ORD00039,CUS0186,Tanvi Iyer,tanvi.iyer186@example.com,9667913013,Kolkata,West Bengal,700001,Bedsheet Set,Home,5,999,15-01-2025,upi,Cancelled
+ORD00040,CUS0305,Meera Joshi,meera.joshi305@example.com,9911911491,Kolkata,West Bengal,700001,Running Shoes,Fashion,4,2499,13-05-2025,Net Banking,Returned
+ORD00041,CUS0105,Sneha Singh,sneha.singh105@example.com,9329101663,Kolkata,West Bengal,700001,Face Serum,Beauty,2,699,20-06-2025,Credit Card,Returned
+ORD00042,CUS0060,Aditi Verma,aditi.verma60@example.com,9715786040,Bengaluru,,560001,Cotton Kurta,Fashion,3,1199,04-01-2025,Debit Card,Processing
+ORD00043,CUS0119,Rahul Patel,rahul.patel119@example.com,9649424091,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,2,1499,21-09-2025,Debit Card,Cancelled
+ORD00044,CUS0056,Riya Joshi,riya.joshi56@example.com,9559521250,Chennai,Tamil Nadu,600001,Shampoo,Beauty,2,399,10-09-2025,Credit Card,Processing
+ORD00045,CUS0011,Yash Patel,yash.patel11@example.com,9114030016,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,1,2499,17-12-2025,Debit Card,Processing
+ORD00046,CUS0275,Ananya Sharma,ananya.sharma275@example.com,9813337032,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,2,1499,08-02-2025,UPI,Processing
+ORD00047,CUS0349,Arjun Khan,arjun.khan349@example.com,9304595101,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,4,2499,24-06-2025,Credit Card,deliverd
+ORD00048,CUS0295,Rahul Verma,rahul.verma295@example.com,9317906906,Pune,Maharashtra,411001,Notebook Pack,Stationery,4,299,17-08-2025,Debit Card,Processing
+ORD00049,CUS0248,Sneha Khan,sneha.khan248@example.com,9782600735,Kolkata,West Bengal,700001,Wireless Mouse,Electronics,5,799,03-10-2025,Net Banking,Shipped
+ORD00050,CUS0382,Priya Sharma,priya.sharma382@example.com,9243998451,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,4,299,20-12-2025,Cash on Delivery,Processing
+ORD00051,CUS0273,Alisha Verma,alisha.verma273@example.com,9790973556,Bengaluru,Karnataka,560001,Water Bottle,Home,4,499,15-08-2025,Cash on Delivery,Processing
+ORD00052,CUS0352,Ananya Sharma,ananya.sharma352@example.com,9720891749,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,2,1199,21-04-2025,Cash on Delivery,Delivered
+ORD00053,CUS0003,Kavya Mehta,kavya.mehta3@example.com,9592028436,Ahmedabad,Gujarat,380001,Shampoo,Beauty,0,399,10-10-2025,Cash on Delivery,Returned
+ORD00054,CUS0304,Alisha Joshi,alisha.joshi304@example.com,9834761084,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,2,599,02-02-2025,Net Banking,Cancelled
+ORD00055,CUS0103,Priya Sharma,priya.sharma103@example.com,9489167078,Bengaluru,Karnataka,560001,Bedsheet Set,Home,5,999,16-02-2025,Debit Card,Processing
+ORD00056,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,5,299,01-08-2025,Credit Card,Delivered
+ORD00057,CUS0343,Tanvi Khan,tanvi.khan343@example.com,9601016736,Delhi,Delhi,110001,Water Bottle,Home,4,499,17-04-2025,Cash on Delivery,Returned
+ORD00058,CUS0107,Tanvi Verma,tanvi.verma107@example.com,9262921986,Pune,Maharashtra,411001,Notebook Pack,Stationery,1,299,09-11-2025,Cash on Delivery,Returned
+ORD00059,CUS0109,Yash Sharma,yash.sharma109@example.com,9106299777,Delhi,Delhi,110001,Bedsheet Set,Home,3,999,18-03-2025,Cash on Delivery,Shipped
+ORD00060,CUS0367,Aditi Mehta,aditi.mehta367@example.com,9383922540,Chennai,Tamil Nadu,600001,Wireless Mouse,Electronics,1,799,03-06-2025,Credit Card,Processing
+ORD00061,CUS0188,Arjun Sharma,arjun.sharma188@example.com,9509937978,Hyderabad,Telangana,500001,Face Serum,Beauty,75,699,23-10-2025,Credit Card,Delivered
+ORD00062,CUS0199,Riya Jain,riya.jain199@example.com,9956664281,Kolkata,West Bengal,700001,Desk Organizer,Stationery,2,599,08-07-2025,Credit Card,Shipped
+ORD00063,CUS0226,Aditi Gupta,aditi.gupta226@example.com,9117435539,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,4,1199,22-04-2025,UPI,Returned
+ORD00064,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Maharashtra,440001,Water Bottle,Home,3,499,19-08-2025,Credit Card,Delivered
+ORD00065,CUS0015,Meera Jain,meera.jain15@example.com,9442811861,Delhi,Delhi,110001,Wireless Mouse,Electronics,4,799,25-01-2025,UPI,Returned
+ORD00066,CUS0055,Kavya Iyer,kavya.iyer55@example.com,9791989025,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,4,1499,16-01-2025,Net Banking,Processing
+ORD00067,CUS0192,Riya Joshi,riya.joshi192@example.com,9813206061,Bengaluru,Karnataka,560001,Running Shoes,Fashion,3,2499,18-10-2025,Credit Card,Shipped
+ORD00068,CUS0099,Arjun Jain,arjun.jain99@example.com,9379885631,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,3,299,28-12-2025,Debit Card,Returned
+ORD00069,CUS0135,Rohan Singh,rohan.singh135@example.com,9307760404,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,4,1199,24-02-2025,Credit Card,Shipped
+ORD00070,CUS0254,Riya Khan,riya.khan254@example.com,9748520143,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,5,1199,04-10-2025,UPI,Returned
+ORD00071,CUS0134,Tanvi Jain,tanvi.jain134@example.com,9176069556,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,3,-499,13-02-2025,Debit Card,Delivered
+ORD00072,CUS0363,Meera Jain,meera.jain363@example.com,9898095903,Kolkata,West Bengal,700001,Cotton Kurta,Fashion,3,1199,17-10-2025,Net Banking,Shipped
+ORD00073,CUS0106,Kavya Verma,kavya.verma106@example.com,9672925941,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,1,999,15-01-2025,Net Banking,Processing
+ORD00074,CUS0380,Meera Verma,meera.verma380@example.com,9983914298,Hyderabad,Telangana,500001,Wireless Mouse,Electronics,3,799,03-08-2025,Debit Card,Delivered
+ORD00075,CUS0378,Aarav Khan,aarav.khan378@example.com,9280109738,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,5,599,13-06-2025,Credit Card,Delivered
+ORD00076,CUS0031,Rahul Khan,rahul.khan31@example.com,9669235752,Delhi,Delhi,110001,Running Shoes,Fashion,5,2499,06-12-2025,Cash on Delivery,Delivered
+ORD00077,CUS0295,Rahul Verma,rahul.verma295@example.com,9317906906,Pune,Maharashtra,411001,Shampoo,Beauty,2,999999,25-03-2025,Net Banking,Shipped
+ORD00078,CUS0182,Aarav Gupta,aarav.gupta182@example.com,9592639455,Nagpur,Maharashtra,440001,Running Shoes,Fashion,4,2499,10-06-2025,Debit Card,Delivered
+ORD00079,CUS0187,Priya Sharma,priya.sharma187@example.com,9619762873,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,3,799,07-04-2025,UPI,Shipped
+ORD00080,CUS0361,Varun Gupta,,9782582312,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,4,299,24-03-2025,Cash on Delivery,Delivered
+ORD00081,CUS0365,Rahul Khan,rahul.khan365@example.com,9887351532,Delhi,Delhi,110001,Shampoo,Beauty,4,399,05-07-2025,Cash on Delivery,Shipped
+ORD00082,CUS0324,Rahul Sharma,rahul.sharma324@example.com,9630199412,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,5,299,14-08-2025,UPI,Returned
+ORD00083,CUS0025,Diya Jain,diya.jain25@example.com,9259385459,Pune,Maharashtra,411001,Cotton Kurta,Fashion,4,1199,2025-13-40,Credit Card,Returned
+ORD00084,CUS0144,Alisha Khan,alisha.khan144@example.com,9657381639,Kolkata,West Bengal,700001,Notebook Pack,Stationery,5,299,19-09-2025,Cash on Delivery,Cancelled
+ORD00085,CUS0304,Alisha Joshi,alisha.joshi304@example.com,9834761084,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,5,799,13-03-2025,Credit Card,Shipped
+ORD00086,CUS0340,Alisha Mehta,alisha.mehta340@example.com,9831861364,Bengaluru,Karnataka,560001,Face Serum,Beauty,5,699,02-04-2025,Credit Card,Shipped
+ORD00087,CUS0020,Sneha Patel,sneha.patel20@example.com,9261313825,Mumbai,Maharashtra,400001,Face Serum,Beauty,2,699,17-12-2025,Net Banking,Delivered
+ORD00088,CUS0237,Meera Jain,meera.jain237@example.com,9811803682,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,2,299,27-01-2025,Cash on Delivery,Cancelled
+ORD00089,CUS0158,Yash Joshi,yash.joshi158@example.com,9494764958,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,2,299,01-01-2035,Net Banking,Cancelled
+ORD00090,CUS0307,Varun Joshi,varun.joshi307@example.com,9425577934,Kolkata,West Bengal,700001,Desk Organizer,Stationery,3,599,17-02-2025,Cash on Delivery,Delivered
+ORD00091,CUS0244,Rohan Singh,rohan.singh244@example.com,9846051564,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,2,1199,27-01-2025,UPI,Shipped
+ORD00092,CUS0263,Aditi Khan,aditi.khan263@example.com,9113899456,Delhi,Delhi,110001,Shampoo,Beauty,5,399,05-02-2025,Credit Card,Delivered
+ORD00093,CUS0304,Alisha Joshi,alisha.joshi304@example.com,9834761084,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,3,599,16-06-2025,Cash on Delivery,Processing
+ORD00094,CUS0073,Tanvi Patel,tanvi.patel73@example.com,9757497301,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,3,799,18-07-2025,Credit Card,Delivered
+ORD00095,CUS0094,Alisha Iyer,alisha.iyer94@example.com,9196336107,Nagpur,Gujarat,440001,Running Shoes,Fashion,1,2499,08-06-2025,Debit Card,Shipped
+ORD00096,CUS0158,Yash Joshi,yash.joshi158@example.com,9494764958,Jaipur,Rajasthan,302001,Bedsheet Set,Home,1,999,08-02-2025,Cash on Delivery,Processing
+ORD00097,CUS0204,Meera Sharma,meera.sharma204@example.com,9490972145,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,1,799,10-09-2025,Cash on Delivery,Processing
+ORD00098,CUS0332,Aditi Khan,name.example.com,9361726256,Delhi,Delhi,110001,Bedsheet Set,Home,2,999,19-11-2025,Net Banking,Processing
+ORD00099,CUS0161,Neha Gupta,neha.gupta161@example.com,9870512708,Chennai,Tamil Nadu,600001,Water Bottle,Home,4,499,26-06-2025,Credit Card,Delivered
+ORD00100,CUS0117,Alisha Sharma,alisha.sharma117@example.com,9252290677,Bengaluru,Karnataka,560001,Bedsheet Set,Home,4,999,14-04-2025,Credit Card,Delivered
+ORD00101,CUS0093,Meera Iyer,meera.iyer93@example.com,9962148082,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,13-05-2025,Credit Card,Returned
+ORD00102,CUS0388,Ishaan Jain,ishaan.jain388@example.com,9568426047,Ahmedabad,Gujarat,12A45,Shampoo,Beauty,1,399,21-02-2025,Credit Card,Shipped
+ORD00103,CUS0086,Alisha Iyer,alisha.iyer86@example.com,9761030495,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,4,999,26-10-2025,Net Banking,Cancelled
+ORD00104,CUS0225,Rohan Gupta,rohan.gupta225@example.com,9515418972,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,1,599,13-08-2025,Debit Card,Processing
+ORD00105,CUS0136,Diya Khan,diya.khan136@example.com,9988649815,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,3,799,26-11-2025,Cash on Delivery,Cancelled
+ORD00106,CUS0317,Varun Verma,varun.verma317@example.com,9870881173,Chennai,Tamil Nadu,600001,Water Bottle,Home,3,499,15-03-2025,Cash on Delivery,Shipped
+ORD00107,CUS0010,Alisha Gupta,alisha.gupta10@example.com,9504292483,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,999,04-12-2025,Debit Card,Cancelled
+ORD00108,CUS0329,Rohan Iyer,rohan.iyer329@example.com,9745487227,Delhi,Delhi,110001,Notebook Pack,Electronics,5,299,02-13-2025,Credit Card,Returned
+ORD00109,CUS0101,Rahul Khan,rahul.khan101@example.com,9574840299,Nagpur,Maharashtra,440001,Face Serum,Beauty,1,699,25-07-2025,Debit Card,Cancelled
+ORD00110,CUS0144,Alisha Khan,alisha.khan144@example.com,9657381639,Kolkata,West Bengal,700001,Desk Organizer,Stationery,4,599,10-11-2025,Net Banking,Delivered
+ORD00111,CUS0084,Yash Verma,yash.verma84@example.com,9578252923,Pune,Maharashtra,411001,Bedsheet Set,Home,5,999,05-01-2025,Net Banking,Shipped
+ORD00112,CUS0025,Diya Jain,diya.jain25@example.com,9259385459,Pune,Maharashtra,411001,Wireless Mouse,Electronics,5,799,23-03-2025,Net Banking,Delivered
+ORD00113,CUS0293,Yash Verma,yash.verma293@example.com,9745325313,Chennai,Tamil Nadu,600001,,Electronics,3,1499,27-01-2025,Debit Card,Cancelled
+ORD00114,CUS0357,Ananya Patel,ananya.patel357@example.com,9866863123,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,1,1199,02-07-2025,UPI,Shipped
+ORD00115,CUS0257,Rohan Verma,rohan.verma257@example.com,12345,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,5,599,23-03-2025,Net Banking,Delivered
+ORD00116,CUS0257,Aditi Khan,aditi.khan332@example.com,9361726256,Delhi,Delhi,110001,Face Serum,Beauty,2,699,08-05-2025,Cash on Delivery,Processing
+ORD00117,CUS0188,Arjun Sharma,arjun.sharma188@example.com,9509937978,Hyderabad,Telangana,500001,Notebook Pack,Stationery,3,299,16-07-2025,Credit Card,Shipped
+ORD00118,CUS0179,Aarav Verma,aarav.verma179@example.com,9422900338,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,1,799,23-06-2025,Net Banking,Shipped
+ORD00119,CUS0224,Rohan Patel,rohan.patel224@example.com,9273458408,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,1,299,01-03-2025,Debit Card,Cancelled
+ORD00120,CUS0311,Meera Khan,meera.khan311@example.com,9862342080,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,5,1499,02-06-2025,Debit Card,Shipped
+ORD00121,CUS0124,Yash Gupta,yash.gupta124@example.com,9328178781,Jaipur,Rajasthan,302001,Shampoo,Beauty,2,399,22-06-2025,UPI,Processing
+ORD00122,CUS0108,Varun Sharma,varun.sharma108@example.com,9358079444,Bengaluru,Karnataka,560001,Water Bottle,Home,4,499,14-09-2025,Credit Card,Cancelled
+ORD00123,CUS0334,Rohan Khan,rohan.khan334@example.com,9834546968,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,4,1199,08-03-2025,Net Banking,Returned
+ORD00124,CUS0011,Yash Patel,yash.patel11@example.com,9114030016,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,1,1499,11-02-2025,Net Banking,Cancelled
+ORD00125,CUS0267,Arjun Joshi,arjun.joshi267@example.com,9959372390,nagpur,Maharashtra,440001,Notebook Pack,Stationery,2,299,22-01-2025,Net Banking,Returned
+ORD00126,CUS0155,Priya Mehta,priya.mehta155@example.com,9380762251,Pune,Maharashtra,411001,Shampoo,Beauty,5,399,04-01-2025,UPI,Processing
+ORD00127,CUS0343,Tanvi Khan,tanvi.khan343@example.com,9601016736,Delhi,Delhi,110001,Desk Organizer,Stationery,1,599,12-08-2025,Cash on Delivery,Delivered
+ORD00128,CUS0001,Alisha Verma,alisha.verma1@example.com,9191644721,Nagpur,Maharashtra,440001,Face Serum,Beauty,5,699,23-08-2025,UPI,Cancelled
+ORD00129,CUS0030,Aarav Patel,aarav.patel30@example.com,9321375273,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,3,1499,18-11-2025,UPI,Delivered
+ORD00130,CUS0091,Ananya Patel,ananya.patel91@example.com,9185864951,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,1,1499,26-12-2025,Net Banking,Cancelled
+ORD00131,CUS0215,Neha Khan,neha.khan215@example.com,9175221312,Pune,Maharashtra,411001,Bluetooth Speaker,Electronics,3,1499,09-01-2025,Cash on Delivery,Processing
+ORD00132,CUS0263,Aditi Khan,aditi.khan263@example.com,9113899456,Delhi,Delhi,110001,Wireless Mouse,Electronics,1,799,21-10-2025,Credit Card,Shipped
+ORD00133,CUS0355,Diya Mehta,diya.mehta355@example.com,9509331399,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,4,1199,22-02-2025,Credit Card,Returned
+ORD00134,CUS0126,Alisha Mehta,alisha.mehta126@example.com,9359413905,Bengaluru,Karnataka,560001,Running Shoes,Fashion,4,2499,03-12-2025,Cash on Delivery,Shipped
+ORD00135,CUS0061,Kavya Sharma,kavya.sharma61@example.com,9932206127,Chennai,Tamil Nadu,600001,Face Serum,Beauty,3,699,08-01-2025,Net Banking,Returned
+ORD00136,CUS0107,Tanvi Verma,tanvi.verma107@example.com,9262921986,Pune,Maharashtra,411001,Wireless Mouse,Electronics,2,799,10-10-2025,Debit Card,Delivered
+ORD00137,CUS0226,Aditi Gupta,aditi.gupta226@example.com,9117435539,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,5,799,25-10-2025,Credit Card,Cancelled
+ORD00138,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Shampoo,Beauty,2,399,19-02-2025,UPI,Shipped
+ORD00139,CUS0005,Riya Iyer,riya.iyer5@example.com,9517935652,Mumbai,,400001,Water Bottle,Home,3,499,08-01-2025,UPI,Returned
+ORD00140,CUS0090,Priya Verma,priya.verma90@example.com,9561771163,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,2,299,27-09-2025,Debit Card,Delivered
+ORD00141,CUS0047,Ananya Patel,ananya.patel47@example.com,9619178396,Pune,Maharashtra,411001,Wireless Mouse,Electronics,3,799,22-05-2025,Cash on Delivery,Returned
+ORD00142,CUS0037,Rohan Joshi,rohan.joshi37@example.com,9245221434,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,4,1199,17-09-2025,upi,Delivered
+ORD00143,CUS0084,Yash Verma,yash.verma84@example.com,9578252923,Pune,Maharashtra,411001,Shampoo,Beauty,5,399,25-02-2025,Credit Card,Shipped
+ORD00144,CUS0188,Arjun Sharma,arjun.sharma188@example.com,9509937978,Hyderabad,Telangana,500001,Water Bottle,Home,3,499,06-11-2025,Cash on Delivery,Delivered
+ORD00145,CUS0224,Rohan Patel,rohan.patel224@example.com,9273458408,Bengaluru,Karnataka,560001,Water Bottle,Home,4,499,17-06-2025,Credit Card,Delivered
+ORD00146,CUS0111,Riya Patel,riya.patel111@example.com,9638902127,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,1,799,03-12-2025,Net Banking,Returned
+ORD00147,CUS0358,Diya Gupta,,9467914363,Hyderabad,Telangana,500001,Notebook Pack,Stationery,1,299,27-01-2025,Cash on Delivery,Shipped
+ORD00148,CUS0213,Riya Gupta,riya.gupta213@example.com,9584849163,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,3,1199,11-07-2025,UPI,Shipped
+ORD00149,CUS0213,Riya Gupta,riya.gupta213@example.com,9584849163,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,5,799,02-09-2025,Net Banking,Delivered
+ORD00150,CUS0344,Rohan Mehta,rohan.mehta344@example.com,9625957341,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,4,1499,02-07-2025,Cash on Delivery,Processing
+ORD00151,CUS0338,Rohan Iyer,rohan.iyer338@example.com,9277752606,Nagpur,Maharashtra,440001,Running Shoes,Fashion,5,2499,07-06-2025,Net Banking,Returned
+ORD00152,CUS0125,Neha Mehta,neha.mehta125@example.com,9541389659,Mumbai,Maharashtra,400001,Bedsheet Set,Home,4,999,07-12-2025,Cash on Delivery,Delivered
+ORD00153,CUS0148,Rohan Iyer,rohan.iyer148@example.com,9332527226,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,1,799,08-01-2025,Cash on Delivery,Shipped
+ORD00154,CUS0259,Aarav Gupta,aarav.gupta259@example.com,9355080160,Pune,Maharashtra,411001,Desk Organizer,Stationery,2,599,01-04-2025,Debit Card,Returned
+ORD00155,CUS0120,Sneha Khan,sneha.khan120@example.com,9466467748,Jaipur,Rajasthan,302001,Bedsheet Set,Home,4,999,18-08-2025,UPI,Shipped
+ORD00156,CUS0015,Meera Jain,meera.jain15@example.com,9442811861,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,1,1499,03-10-2025,UPI,deliverd
+ORD00157,CUS0126,Alisha Mehta,alisha.mehta126@example.com,9359413905,Bengaluru,Karnataka,560001,Shampoo,Beauty,5,399,19-06-2025,Net Banking,Shipped
+ORD00158,CUS0162,Aditi Verma,aditi.verma162@example.com,9817839008,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,4,299,21-03-2025,Cash on Delivery,Processing
+ORD00159,CUS0120,Sneha Khan,sneha.khan120@example.com,9466467748,Jaipur,Rajasthan,302001,Face Serum,Beauty,4,699,07-05-2025,Cash on Delivery,Shipped
+ORD00160,CUS0028,Meera Khan,meera.khan28@example.com,9894586465,Hyderabad,Telangana,500001,Water Bottle,Home,1,499,08-06-2025,Cash on Delivery,Processing
+ORD00161,CUS0267,Arjun Joshi,arjun.joshi267@example.com,9959372390,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,2,1499,09-01-2025,Cash on Delivery,Shipped
+ORD00162,CUS0155,Priya Mehta,priya.mehta155@example.com,9380762251,Pune,Maharashtra,411001,Face Serum,Beauty,5,699,16-11-2025,Credit Card,Cancelled
+ORD00163,CUS0400,Aarav Joshi,aarav.joshi400@example.com,9212959990,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,4,1199,05-01-2025,Net Banking,Delivered
+ORD00164,CUS0198,Ananya Singh,ananya.singh198@example.com,9744878809,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,1,299,19-04-2025,Debit Card,Delivered
+ORD00165,CUS0008,Ananya Jain,ananya.jain8@example.com,9687760359,Chennai,Tamil Nadu,600001,Water Bottle,Home,4,499,28-04-2025,Debit Card,Returned
+ORD00166,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Shampoo,Beauty,0,399,08-10-2025,Credit Card,Returned
+ORD00167,CUS0284,Ishaan Verma,ishaan.verma284@example.com,9749748251,Kolkata,West Bengal,700001,Desk Organizer,Stationery,4,599,18-06-2025,UPI,Cancelled
+ORD00168,CUS0256,Alisha Patel,alisha.patel256@example.com,9217946901,Hyderabad,Telangana,500001,Cotton Kurta,Fashion,2,1199,06-02-2025,UPI,Processing
+ORD00169,CUS0363,Meera Jain,meera.jain363@example.com,9898095903,Kolkata,West Bengal,700001,Notebook Pack,Stationery,4,299,05-06-2025,Debit Card,Cancelled
+ORD00170,CUS0064,Diya Mehta,diya.mehta64@example.com,9586433121,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,2,799,24-12-2025,Net Banking,Processing
+ORD00171,CUS0257,Rohan Verma,rohan.verma257@example.com,9427788334,Mumbai,Maharashtra,400001,Running Shoes,Fashion,4,2499,24-05-2025,Credit Card,Delivered
+ORD00172,CUS0383,Ishaan Mehta,ishaan.mehta383@example.com,9190551967,Mumbai,Maharashtra,400001,Bedsheet Set,Home,4,999,08-05-2025,Cash on Delivery,Cancelled
+ORD00173,CUS0207,Priya Verma,priya.verma207@example.com,9194558128,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,4,1499,06-08-2025,Cash on Delivery,Delivered
+ORD00174,CUS0019,Priya Sharma,priya.sharma19@example.com,9358750884,Pune,Maharashtra,411001,Cotton Kurta,Fashion,4,1199,08-03-2025,Cash on Delivery,Returned
+ORD00175,CUS0240,Alisha Mehta,alisha.mehta240@example.com,9727897746,Bengaluru,Karnataka,560001,Bedsheet Set,Home,4,999,24-08-2025,UPI,Returned
+ORD00176,CUS0378,Aarav Khan,aarav.khan378@example.com,9280109738,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,4,1199,22-04-2025,Debit Card,Processing
+ORD00177,CUS0111,Riya Patel,name.example.com,9638902127,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,5,299,11-04-2025,Credit Card,Shipped
+ORD00178,CUS0198,Ananya Singh,ananya.singh198@example.com,9744878809,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,2,1199,23-12-2025,UPI,Processing
+ORD00179,CUS0025,Diya Jain,diya.jain25@example.com,9259385459,Pune,Maharashtra,411001,Water Bottle,Home,2,499,08-03-2025,Net Banking,Delivered
+ORD00180,CUS0015,Meera Jain,meera.jain15@example.com,9442811861,Delhi,Delhi,110001,Face Serum,Beauty,2,699,18-01-2025,Credit Card,Delivered
+ORD00181,CUS0192,Riya Joshi,riya.joshi192@example.com,9813206061,Bengaluru,Karnataka,560001,Bedsheet Set,Home,1,999,12-02-2025,Net Banking,Cancelled
+ORD00182,CUS0238,Ishaan Gupta,ishaan.gupta238@example.com,9411691594,Kolkata,West Bengal,700001,Water Bottle,Home,2,499,23-12-2025,Cash on Delivery,Delivered
+ORD00183,CUS0190,Kavya Mehta,kavya.mehta190@example.com,9243795515,Bengaluru,Karnataka,560001,Face Serum,Beauty,2,699,18-04-2025,UPI,Delivered
+ORD00184,CUS0242,Neha Joshi,neha.joshi242@example.com,9254265709,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,3,599,28-11-2025,UPI,Cancelled
+ORD00185,CUS0095,Ananya Mehta,ananya.mehta95@example.com,9640001658,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,5,1499,17-12-2025,UPI,Cancelled
+ORD00186,CUS0293,Yash Verma,yash.verma293@example.com,9745325313,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,3,1499,05-09-2025,Credit Card,Returned
+ORD00187,CUS0251,Rahul Sharma,rahul.sharma251@example.com,9150399308,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,4,2499,15-03-2025,UPI,Cancelled
+ORD00188,CUS0210,Meera Mehta,meera.mehta210@example.com,9319303565,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,75,1499,06-05-2025,Debit Card,Returned
+ORD00189,CUS0182,Aarav Gupta,aarav.gupta182@example.com,9592639455,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,1,1499,22-10-2025,Cash on Delivery,Returned
+ORD00190,CUS0092,Aditi Jain,aditi.jain92@example.com,9721514729,Kolkata,West Bengal,700001,Water Bottle,Home,2,499,07-10-2025,Debit Card,Delivered
+ORD00191,CUS0181,Neha Singh,neha.singh181@example.com,9863173275,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,5,1199,06-10-2025,Cash on Delivery,Returned
+ORD00192,CUS0384,Priya Mehta,priya.mehta384@example.com,9366387322,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,2,1499,22-09-2025,Cash on Delivery,Returned
+ORD00193,CUS0244,Rohan Singh,rohan.singh244@example.com,9846051564,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,2,1499,01-10-2025,UPI,Returned
+ORD00194,CUS0325,Diya Iyer,diya.iyer325@example.com,9601659251,Nagpur,Maharashtra,440001,Shampoo,Beauty,3,399,09-07-2025,Net Banking,Cancelled
+ORD00195,CUS0263,Aditi Khan,aditi.khan263@example.com,9113899456,Delhi,Delhi,110001,Water Bottle,Home,5,499,25-03-2025,Credit Card,Shipped
+ORD00196,CUS0117,Alisha Sharma,alisha.sharma117@example.com,9252290677,Bengaluru,Karnataka,560001,,Beauty,1,699,04-11-2025,Cash on Delivery,Returned
+ORD00197,CUS0194,Yash Jain,yash.jain194@example.com,9623444006,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,4,799,07-08-2025,Credit Card,Delivered
+ORD00198,CUS0347,Sneha Joshi,sneha.joshi347@example.com,9586535694,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,2,1499,20-04-2025,Debit Card,Returned
+ORD00199,CUS0386,Arjun Gupta,arjun.gupta386@example.com,9612409988,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,3,799,27-04-2025,Net Banking,Shipped
+ORD00199,CUS0386,Arjun Gupta,arjun.gupta386@example.com,9612409988,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,3,799,27-04-2025,Net Banking,Shipped
+ORD00201,CUS0090,Priya Verma,priya.verma90@example.com,9561771163,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,3,999,05-09-2025,Cash on Delivery,Shipped
+ORD00202,CUS0339,Rohan Jain,rohan.jain339@example.com,9268710254,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,-499,08-03-2025,UPI,Delivered
+ORD00203,CUS0368,Aditi Gupta,aditi.gupta368@example.com,9642631501,Mumbai,Maharashtra,400001,Shampoo,Beauty,5,399,15-07-2025,Net Banking,Processing
+ORD00204,CUS0209,Aditi Patel,aditi.patel209@example.com,12345,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,3,1499,22-03-2025,Credit Card,Shipped
+ORD00205,CUS0112,Rohan Jain,rohan.jain112@example.com,9292192311,Mumbai,Maharashtra,400001,Bedsheet Set,Home,3,999,05-03-2025,Credit Card,Shipped
+ORD00206,CUS0129,Arjun Gupta,arjun.gupta129@example.com,9280163305,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,3,2499,07-05-2025,Credit Card,Processing
+ORD00207,CUS0209,Aditi Patel,aditi.patel209@example.com,9409008271,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,2,1199,27-03-2025,Debit Card,Returned
+ORD00208,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,5,1499,15-12-2025,Cash on Delivery,Returned
+ORD00209,CUS0061,Kavya Sharma,kavya.sharma61@example.com,9932206127,Chennai,Tamil Nadu,600001,Face Serum,Beauty,2,699,25-09-2025,UPI,Returned
+ORD00210,CUS0209,Aditi Patel,aditi.patel209@example.com,9409008271,Bengaluru,Karnataka,560001,Face Serum,Beauty,2,699,26-01-2025,Cash on Delivery,Shipped
+ORD00211,CUS0062,Ishaan Verma,ishaan.verma62@example.com,9364125312,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,4,1499,26-12-2025,Cash on Delivery,Processing
+ORD00212,CUS0095,Ananya Mehta,ananya.mehta95@example.com,9640001658,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,4,799,17-11-2025,Cash on Delivery,Cancelled
+ORD00213,CUS0396,Meera Verma,meera.verma396@example.com,9525371744,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,1,299,27-03-2025,Net Banking,Shipped
+ORD00214,CUS0145,Aditi Iyer,,9280882096,Chennai,Tamil Nadu,600001,Water Bottle,Home,3,999999,11-03-2025,Net Banking,Delivered
+ORD00215,CUS0215,Neha Khan,neha.khan215@example.com,9175221312,Pune,Maharashtra,411001,Running Shoes,Fashion,1,2499,07-07-2025,Cash on Delivery,Shipped
+ORD00216,CUS0055,Kavya Iyer,kavya.iyer55@example.com,9791989025,mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,1,1499,13-10-2025,Debit Card,Shipped
+ORD00217,CUS0188,Arjun Sharma,arjun.sharma188@example.com,9509937978,Hyderabad,Telangana,500001,Desk Organizer,Stationery,1,599,21-07-2025,Debit Card,Delivered
+ORD00218,CUS0121,Alisha Verma,alisha.verma121@example.com,9362602628,Hyderabad,Telangana,500001,Running Shoes,Fashion,4,2499,01-09-2025,UPI,Cancelled
+ORD00219,CUS0280,Aditi Sharma,aditi.sharma280@example.com,9861970438,Ahmedabad,Gujarat,380001,Face Serum,Beauty,5,699,05-10-2025,Cash on Delivery,Returned
+ORD00220,CUS0063,Rahul Joshi,rahul.joshi63@example.com,9543128074,Kolkata,West Bengal,700001,Running Shoes,Fashion,2,2499,26-03-2025,Cash on Delivery,Returned
+ORD00221,CUS0197,Priya Khan,priya.khan197@example.com,9240480602,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,3,1499,05-07-2025,UPI,Cancelled
+ORD00222,CUS0224,Rohan Patel,rohan.patel224@example.com,9273458408,Bengaluru,Karnataka,560001,Bedsheet Set,Home,5,999,2025-13-40,UPI,Processing
+ORD00223,CUS0087,Rohan Verma,rohan.verma87@example.com,9814001083,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,2,599,04-09-2025,Debit Card,Processing
+ORD00224,CUS0246,Arjun Singh,arjun.singh246@example.com,9389205972,Jaipur,Rajasthan,302001,Face Serum,Beauty,3,699,16-02-2025,Debit Card,Delivered
+ORD00225,CUS0244,Rohan Singh,rohan.singh244@example.com,9846051564,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,2,1499,19-09-2025,Debit Card,Returned
+ORD00226,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,2,599,11-06-2025,Net Banking,Shipped
+ORD00227,CUS0062,Ishaan Verma,ishaan.verma62@example.com,9364125312,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,4,1199,25-10-2025,Debit Card,Shipped
+ORD00228,CUS0344,Rohan Mehta,rohan.mehta344@example.com,9625957341,Ahmedabad,Gujarat,380001,Shampoo,Beauty,4,399,28-05-2025,Net Banking,Shipped
+ORD00229,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,5,299,16-06-2025,UPI,Delivered
+ORD00230,CUS0398,Kavya Mehta,kavya.mehta398@example.com,9121176198,Jaipur,Rajasthan,302001,Bedsheet Set,Home,3,999,01-07-2025,Cash on Delivery,Returned
+ORD00231,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,Kolkata,West Bengal,700001,Notebook Pack,Stationery,3,299,01-03-2025,Debit Card,Cancelled
+ORD00232,CUS0101,Rahul Khan,rahul.khan101@example.com,9574840299,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,1,799,25-07-2025,Net Banking,Returned
+ORD00233,CUS0105,Sneha Singh,sneha.singh105@example.com,9329101663,Kolkata,West Bengal,700001,Bedsheet Set,Home,1,999,01-03-2025,Credit Card,Shipped
+ORD00234,CUS0358,Diya Gupta,diya.gupta358@example.com,9467914363,Hyderabad,Telangana,500001,Desk Organizer,Stationery,1,599,09-09-2025,UPI,Cancelled
+ORD00235,CUS0044,Neha Singh,neha.singh44@example.com,9492520504,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,2,2499,12-01-2025,Cash on Delivery,Shipped
+ORD00236,CUS0100,Varun Patel,varun.patel100@example.com,9780069370,Bengaluru,,560001,Water Bottle,Home,3,499,18-09-2025,UPI,Delivered
+ORD00237,CUS0352,Ananya Sharma,ananya.sharma352@example.com,9720891749,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,3,1499,07-08-2025,Cash on Delivery,Processing
+ORD00238,CUS0287,Aditi Iyer,aditi.iyer287@example.com,9222599671,Delhi,Delhi,110001,Wireless Mouse,Electronics,1,799,01-01-2035,Credit Card,Cancelled
+ORD00239,CUS0056,Riya Joshi,riya.joshi56@example.com,9559521250,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,1,1499,10-03-2025,UPI,Shipped
+ORD00240,CUS0116,Aditi Singh,aditi.singh116@example.com,9367520049,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,4,999,15-06-2025,Net Banking,Delivered
+ORD00241,CUS0335,Meera Khan,meera.khan335@example.com,9621493384,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,2,1499,24-01-2025,Cash on Delivery,Processing
+ORD00242,CUS0319,Alisha Mehta,alisha.mehta319@example.com,9389717091,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,4,599,20-05-2025,Credit Card,Delivered
+ORD00243,CUS0376,Aditi Mehta,aditi.mehta376@example.com,9943387042,Bengaluru,Karnataka,560001,Water Bottle,Home,1,499,04-01-2025,Cash on Delivery,Returned
+ORD00244,CUS0144,Alisha Khan,alisha.khan144@example.com,9657381639,Kolkata,West Bengal,700001,Desk Organizer,Stationery,4,599,21-11-2025,Cash on Delivery,Cancelled
+ORD00245,CUS0352,Ananya Sharma,ananya.sharma352@example.com,9720891749,Chennai,Tamil Nadu,600001,Water Bottle,Home,1,499,01-12-2025,upi,Delivered
+ORD00246,CUS0029,Sneha Joshi,sneha.joshi29@example.com,9472657543,Ahmedabad,Maharashtra,380001,Wireless Mouse,Electronics,5,799,07-07-2025,Cash on Delivery,Shipped
+ORD00247,CUS0254,Riya Khan,riya.khan254@example.com,9748520143,Mumbai,Maharashtra,400001,Bedsheet Set,Home,3,999,01-02-2025,Net Banking,Shipped
+ORD00248,CUS0189,Alisha Patel,alisha.patel189@example.com,9963396677,Pune,Maharashtra,411001,Wireless Mouse,Electronics,4,799,13-06-2025,Net Banking,Cancelled
+ORD00249,CUS0202,Riya Gupta,riya.gupta202@example.com,9612233532,Pune,Maharashtra,411001,Wireless Mouse,Electronics,1,799,12-11-2025,Net Banking,Cancelled
+ORD00250,CUS0039,Priya Mehta,priya.mehta39@example.com,9844166400,Kolkata,West Bengal,700001,Cotton Kurta,Fashion,5,1199,17-06-2025,Credit Card,Delivered
+ORD00251,CUS0269,Alisha Iyer,alisha.iyer269@example.com,9576858400,Delhi,Delhi,110001,Bedsheet Set,Home,1,999,06-02-2025,UPI,Shipped
+ORD00252,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Shampoo,Beauty,5,399,25-06-2025,Debit Card,Shipped
+ORD00253,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,3,799,08-06-2025,Cash on Delivery,Delivered
+ORD00254,CUS0320,Yash Mehta,yash.mehta320@example.com,9125257321,Bengaluru,Karnataka,560001,Water Bottle,Home,4,499,21-10-2025,Cash on Delivery,Delivered
+ORD00255,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,Kolkata,West Bengal,700001,Desk Organizer,Stationery,5,599,01-05-2025,Credit Card,Cancelled
+ORD00256,CUS0221,Rohan Singh,name.example.com,9863974619,Hyderabad,Telangana,500001,Running Shoes,Fashion,5,2499,02-03-2025,Debit Card,Delivered
+ORD00257,CUS0310,Tanvi Gupta,tanvi.gupta310@example.com,9545959255,Mumbai,Maharashtra,400001,Water Bottle,Home,3,499,10-06-2025,UPI,Cancelled
+ORD00258,CUS0296,Aarav Mehta,aarav.mehta296@example.com,9230485055,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,1,999,17-01-2025,Net Banking,Delivered
+ORD00259,CUS0359,Rahul Singh,rahul.singh359@example.com,9296232779,Delhi,Delhi,12A45,Running Shoes,Fashion,2,2499,23-06-2025,Net Banking,Cancelled
+ORD00260,CUS0133,Rahul Patel,rahul.patel133@example.com,9234985883,Delhi,Delhi,110001,Running Shoes,Fashion,1,2499,23-10-2025,Net Banking,Shipped
+ORD00261,CUS0213,Riya Gupta,riya.gupta213@example.com,9584849163,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,4,2499,02-02-2025,UPI,Shipped
+ORD00262,CUS0390,Rohan Gupta,rohan.gupta390@example.com,9646802174,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,5,1199,06-01-2025,Debit Card,Cancelled
+ORD00263,CUS0188,Arjun Sharma,arjun.sharma188@example.com,9509937978,Hyderabad,Telangana,500001,Wireless Mouse,Electronics,2,799,12-01-2025,Debit Card,Processing
+ORD00264,CUS0046,Yash Patel,yash.patel46@example.com,9712280589,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,1,799,23-08-2025,Net Banking,Processing
+ORD00265,CUS0264,Varun Singh,varun.singh264@example.com,9515442592,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,2,599,17-11-2025,Credit Card,deliverd
+ORD00266,CUS0306,Yash Joshi,yash.joshi306@example.com,9592083980,Pune,Maharashtra,411001,Cotton Kurta,Fashion,3,1199,08-02-2025,Debit Card,Delivered
+ORD00267,CUS0299,Sneha Khan,sneha.khan299@example.com,9616063288,Mumbai,Maharashtra,400001,Water Bottle,Home,5,499,11-03-2025,Credit Card,Delivered
+ORD00268,CUS0121,Alisha Verma,alisha.verma121@example.com,9362602628,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,5,1499,13-05-2025,UPI,Shipped
+ORD00269,CUS0168,Ishaan Jain,ishaan.jain168@example.com,9883153948,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,2,1199,09-04-2025,Cash on Delivery,Shipped
+ORD00270,CUS0294,Meera Singh,meera.singh294@example.com,9348638191,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,2,299,15-01-2025,UPI,Returned
+ORD00271,CUS0252,Ishaan Khan,ishaan.khan252@example.com,9192313629,Chennai,Tamil Nadu,600001,Desk Organizer,Electronics,4,599,16-08-2025,Credit Card,Returned
+ORD00272,CUS0280,Aditi Sharma,aditi.sharma280@example.com,9861970438,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,5,2499,27-09-2025,UPI,Shipped
+ORD00273,CUS0155,Priya Mehta,priya.mehta155@example.com,9380762251,Pune,Maharashtra,411001,Notebook Pack,Stationery,2,299,06-10-2025,Credit Card,Returned
+ORD00274,CUS0083,Tanvi Patel,tanvi.patel83@example.com,9169861410,Mumbai,Maharashtra,400001,Shampoo,Beauty,3,399,25-08-2025,Net Banking,Cancelled
+ORD00275,CUS0384,Priya Mehta,priya.mehta384@example.com,9366387322,Delhi,Delhi,110001,Water Bottle,Home,3,499,09-06-2025,Net Banking,Processing
+ORD00276,CUS0383,Ishaan Mehta,ishaan.mehta383@example.com,9190551967,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,3,799,12-02-2025,Net Banking,Processing
+ORD00277,CUS0041,Neha Khan,neha.khan41@example.com,9214001154,Mumbai,Maharashtra,400001,Water Bottle,Home,3,499,24-03-2025,Net Banking,Shipped
+ORD00278,CUS0338,Rohan Iyer,rohan.iyer338@example.com,9277752606,Nagpur,Maharashtra,440001,Face Serum,Beauty,1,699,08-01-2025,Net Banking,Cancelled
+ORD00279,CUS0353,Diya Mehta,diya.mehta353@example.com,9271436335,Delhi,Delhi,110001,,Electronics,0,799,23-03-2025,Net Banking,Cancelled
+ORD00280,CUS0101,Rahul Khan,rahul.khan101@example.com,9574840299,Nagpur,Maharashtra,440001,Bedsheet Set,Home,1,999,13-10-2025,Cash on Delivery,Processing
+ORD00281,CUS0272,Arjun Mehta,,9864406655,Chennai,Tamil Nadu,600001,Face Serum,Beauty,4,699,04-07-2025,Net Banking,Shipped
+ORD00282,CUS0323,Meera Mehta,meera.mehta323@example.com,9418038526,Delhi,Delhi,110001,Face Serum,Beauty,1,699,01-11-2025,Debit Card,Cancelled
+ORD00283,CUS0323,Priya Mehta,priya.mehta384@example.com,9366387322,Delhi,Delhi,110001,Desk Organizer,Stationery,1,599,01-08-2025,Debit Card,Returned
+ORD00284,CUS0265,Rohan Verma,rohan.verma265@example.com,9420465454,Pune,Maharashtra,411001,Bluetooth Speaker,Electronics,5,1499,02-04-2025,Cash on Delivery,Cancelled
+ORD00285,CUS0016,Arjun Singh,arjun.singh16@example.com,9941884944,Jaipur,Rajasthan,302001,Bedsheet Set,Home,2,999,03-06-2025,UPI,Returned
+ORD00286,CUS0021,Riya Sharma,riya.sharma21@example.com,9333545973,Mumbai,Maharashtra,400001,Face Serum,Beauty,4,699,04-01-2025,Net Banking,Delivered
+ORD00287,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,Rajasthan,302001,Face Serum,Beauty,2,699,11-12-2025,Cash on Delivery,Processing
+ORD00288,CUS0350,Ananya Jain,ananya.jain350@example.com,9443359617,Kolkata,West Bengal,700001,Notebook Pack,Stationery,2,299,23-03-2025,UPI,Processing
+ORD00289,CUS0240,Alisha Mehta,alisha.mehta240@example.com,9727897746,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,4,1499,10-07-2025,Cash on Delivery,Cancelled
+ORD00290,CUS0209,Aditi Patel,aditi.patel209@example.com,9409008271,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,1,599,04-10-2025,Credit Card,Processing
+ORD00291,CUS0020,Sneha Patel,sneha.patel20@example.com,9261313825,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,2,1199,07-12-2025,Net Banking,Processing
+ORD00292,CUS0072,Arjun Khan,arjun.khan72@example.com,9175592172,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,3,1199,05-10-2025,Net Banking,Returned
+ORD00293,CUS0212,Rahul Verma,rahul.verma212@example.com,12345,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,2,1499,20-06-2025,Credit Card,Shipped
+ORD00294,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,Rajasthan,302001,Water Bottle,Home,2,499,11-06-2025,UPI,Returned
+ORD00295,CUS0182,Aarav Gupta,aarav.gupta182@example.com,9592639455,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,1,1199,17-08-2025,Net Banking,Processing
+ORD00296,CUS0359,Rahul Singh,rahul.singh359@example.com,9296232779,Delhi,Delhi,110001,Bedsheet Set,Home,5,999,27-12-2025,Cash on Delivery,Shipped
+ORD00297,CUS0380,Meera Verma,meera.verma380@example.com,9983914298,Hyderabad,Telangana,500001,Bedsheet Set,Home,1,999,10-04-2025,Debit Card,Returned
+ORD00298,CUS0351,Diya Iyer,diya.iyer351@example.com,9611065773,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,4,799,13-04-2025,Net Banking,Delivered
+ORD00299,CUS0254,Riya Khan,riya.khan254@example.com,9748520143,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,2,299,19-06-2025,Debit Card,Processing
+ORD00299,CUS0254,Riya Khan,riya.khan254@example.com,9748520143,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,2,299,19-06-2025,Debit Card,Processing
+ORD00301,CUS0261,Rahul Singh,rahul.singh261@example.com,9418955058,Delhi,Delhi,110001,Cotton Kurta,Fashion,3,1199,25-03-2025,Credit Card,Shipped
+ORD00302,CUS0233,Sneha Mehta,sneha.mehta233@example.com,9174726265,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,2,999,12-09-2025,Debit Card,Cancelled
+ORD00303,CUS0073,Tanvi Patel,tanvi.patel73@example.com,9757497301,Mumbai,Maharashtra,400001,Running Shoes,Fashion,1,2499,11-01-2025,Cash on Delivery,Returned
+ORD00304,CUS0103,Priya Sharma,priya.sharma103@example.com,9489167078,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,5,299,06-07-2025,Net Banking,Shipped
+ORD00305,CUS0096,Diya Gupta,diya.gupta96@example.com,9373803388,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,3,1199,04-03-2025,Cash on Delivery,Delivered
+ORD00306,CUS0039,Priya Mehta,priya.mehta39@example.com,9844166400,Kolkata,West Bengal,700001,Bedsheet Set,Home,5,999,22-02-2025,UPI,Cancelled
+ORD00307,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,kolkata,West Bengal,700001,Water Bottle,Home,1,499,24-07-2025,UPI,Delivered
+ORD00308,CUS0365,Rahul Khan,rahul.khan365@example.com,9887351532,Delhi,Delhi,110001,Water Bottle,Home,1,499,24-01-2025,Debit Card,Cancelled
+ORD00309,CUS0304,Alisha Joshi,alisha.joshi304@example.com,9834761084,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,1,1499,20-08-2025,Cash on Delivery,Shipped
+ORD00310,CUS0399,Aarav Gupta,aarav.gupta399@example.com,9506442335,Pune,Maharashtra,411001,Shampoo,Beauty,4,399,14-07-2025,Net Banking,Delivered
+ORD00311,CUS0368,Aditi Gupta,aditi.gupta368@example.com,9642631501,Mumbai,Maharashtra,400001,Bedsheet Set,Home,4,999,04-11-2025,Cash on Delivery,Processing
+ORD00312,CUS0078,Sneha Mehta,sneha.mehta78@example.com,9132085225,Delhi,Delhi,110001,Bedsheet Set,Home,2,999,16-12-2025,Cash on Delivery,Shipped
+ORD00313,CUS0087,Rohan Verma,rohan.verma87@example.com,9814001083,Ahmedabad,Gujarat,380001,Water Bottle,Home,5,499,27-08-2025,Credit Card,Returned
+ORD00314,CUS0028,Meera Khan,meera.khan28@example.com,9894586465,Hyderabad,Telangana,500001,Cotton Kurta,Fashion,1,1199,10-02-2025,UPI,Returned
+ORD00315,CUS0098,Diya Iyer,diya.iyer98@example.com,9806163621,Pune,Maharashtra,411001,Desk Organizer,Stationery,75,599,13-11-2025,Credit Card,Processing
+ORD00316,CUS0003,Kavya Mehta,kavya.mehta3@example.com,9592028436,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,1,599,25-10-2025,Net Banking,Delivered
+ORD00317,CUS0222,Aditi Verma,aditi.verma222@example.com,9147911827,Nagpur,Maharashtra,440001,Bedsheet Set,Home,2,999,01-10-2025,Net Banking,Processing
+ORD00318,CUS0051,Kavya Joshi,kavya.joshi51@example.com,9964485438,Jaipur,Rajasthan,302001,Face Serum,Beauty,5,699,03-07-2025,Debit Card,Returned
+ORD00319,CUS0181,Neha Singh,neha.singh181@example.com,9863173275,Ahmedabad,Gujarat,380001,Shampoo,Beauty,1,399,26-02-2025,Cash on Delivery,Returned
+ORD00320,CUS0102,Ananya Patel,ananya.patel102@example.com,9717555280,Bengaluru,Karnataka,560001,Face Serum,Beauty,3,699,14-01-2025,Credit Card,Processing
+ORD00321,CUS0387,Arjun Khan,arjun.khan387@example.com,9912375065,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,05-08-2025,UPI,Cancelled
+ORD00322,CUS0049,Alisha Patel,alisha.patel49@example.com,9821281794,Chennai,Tamil Nadu,600001,Water Bottle,Home,3,499,23-02-2025,UPI,Cancelled
+ORD00323,CUS0222,Aditi Verma,aditi.verma222@example.com,9147911827,Nagpur,Maharashtra,440001,Water Bottle,Home,2,499,26-12-2025,Debit Card,Delivered
+ORD00324,CUS0080,Kavya Joshi,kavya.joshi80@example.com,9428817252,Pune,Maharashtra,411001,Cotton Kurta,Fashion,2,1199,14-05-2025,Debit Card,Cancelled
+ORD00325,CUS0275,Ananya Sharma,ananya.sharma275@example.com,9813337032,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,1,1199,12-04-2025,Net Banking,Shipped
+ORD00326,CUS0228,Varun Gupta,varun.gupta228@example.com,9699698908,Kolkata,West Bengal,700001,Desk Organizer,Stationery,5,599,01-11-2025,Net Banking,Cancelled
+ORD00327,CUS0244,Rohan Singh,rohan.singh244@example.com,9846051564,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,1,2499,24-12-2025,Net Banking,Processing
+ORD00328,CUS0243,Ishaan Verma,ishaan.verma243@example.com,9778081299,Mumbai,Maharashtra,400001,Running Shoes,Fashion,3,2499,12-06-2025,UPI,Shipped
+ORD00329,CUS0219,Alisha Joshi,alisha.joshi219@example.com,9325006475,Jaipur,Rajasthan,302001,Bedsheet Set,Home,5,999,17-08-2025,UPI,Processing
+ORD00330,CUS0239,Ananya Patel,ananya.patel239@example.com,9555687236,Pune,Maharashtra,411001,Wireless Mouse,Electronics,3,799,06-01-2025,Net Banking,Cancelled
+ORD00331,CUS0334,Rohan Khan,rohan.khan334@example.com,9834546968,Nagpur,Maharashtra,440001,Bedsheet Set,Home,3,999,07-10-2025,Debit Card,Shipped
+ORD00332,CUS0058,Tanvi Mehta,tanvi.mehta58@example.com,9405897992,Pune,Maharashtra,411001,Desk Organizer,Stationery,1,599,02-07-2025,UPI,Delivered
+ORD00333,CUS0387,Arjun Khan,arjun.khan387@example.com,9912375065,Ahmedabad,,380001,Bluetooth Speaker,Electronics,3,-499,22-05-2025,UPI,Delivered
+ORD00334,CUS0067,Alisha Gupta,alisha.gupta67@example.com,9841974106,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,3,1499,26-05-2025,Credit Card,Cancelled
+ORD00335,CUS0003,Kavya Mehta,name.example.com,9592028436,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,2,999,01-10-2025,UPI,Shipped
+ORD00336,CUS0272,Arjun Mehta,arjun.mehta272@example.com,9864406655,Chennai,Tamil Nadu,600001,Shampoo,Beauty,2,399,22-07-2025,UPI,Processing
+ORD00337,CUS0089,Diya Jain,diya.jain89@example.com,9328604315,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,3,599,27-09-2025,Cash on Delivery,Returned
+ORD00338,CUS0102,Ananya Patel,ananya.patel102@example.com,9717555280,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,1,299,03-10-2025,Debit Card,Processing
+ORD00339,CUS0270,Priya Singh,priya.singh270@example.com,9213573256,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,1,299,07-04-2025,Debit Card,Processing
+ORD00340,CUS0173,Diya Patel,diya.patel173@example.com,9115921236,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,5,2499,05-09-2025,UPI,Processing
+ORD00341,CUS0036,Yash Joshi,yash.joshi36@example.com,9391101159,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,3,1199,19-07-2025,Debit Card,Delivered
+ORD00342,CUS0022,Aarav Mehta,aarav.mehta22@example.com,9465712148,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,1,599,07-12-2025,Net Banking,Returned
+ORD00343,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,2,1499,14-07-2025,UPI,Delivered
+ORD00344,CUS0040,Diya Mehta,diya.mehta40@example.com,9424226162,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,1,599,12-05-2025,Debit Card,Shipped
+ORD00345,CUS0094,Alisha Iyer,alisha.iyer94@example.com,9196336107,Nagpur,Maharashtra,440001,Shampoo,Beauty,2,399,21-08-2025,Credit Card,Returned
+ORD00346,CUS0193,Aarav Gupta,aarav.gupta193@example.com,9205962514,Jaipur,Rajasthan,302001,Face Serum,Beauty,2,699,19-05-2025,Debit Card,Delivered
+ORD00347,CUS0189,Alisha Patel,alisha.patel189@example.com,9963396677,Pune,Maharashtra,411001,Cotton Kurta,Fashion,4,1199,27-03-2025,Credit Card,Shipped
+ORD00348,CUS0178,Arjun Gupta,,9118431081,Jaipur,Rajasthan,302001,Bedsheet Set,Home,4,999,04-12-2025,upi,Delivered
+ORD00349,CUS0384,Priya Mehta,priya.mehta384@example.com,9366387322,Delhi,Delhi,110001,Running Shoes,Fashion,2,2499,25-12-2025,Debit Card,Delivered
+ORD00350,CUS0213,Riya Gupta,riya.gupta213@example.com,9584849163,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,4,1199,08-03-2025,Cash on Delivery,Delivered
+ORD00351,CUS0005,Riya Iyer,riya.iyer5@example.com,9517935652,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,4,999999,20-02-2025,Credit Card,Processing
+ORD00352,CUS0379,Ananya Gupta,ananya.gupta379@example.com,9231587951,Delhi,Delhi,110001,Face Serum,Beauty,5,699,25-02-2025,Debit Card,Cancelled
+ORD00353,CUS0061,Kavya Sharma,kavya.sharma61@example.com,9932206127,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,4,1499,15-06-2025,Net Banking,Delivered
+ORD00354,CUS0123,Varun Iyer,varun.iyer123@example.com,9754098361,Pune,Maharashtra,411001,Notebook Pack,Stationery,3,299,26-12-2025,Credit Card,Cancelled
+ORD00355,CUS0044,Neha Singh,neha.singh44@example.com,9492520504,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,3,2499,17-12-2025,Net Banking,Processing
+ORD00356,CUS0205,Ishaan Gupta,ishaan.gupta205@example.com,9951126711,Pune,Maharashtra,411001,Bedsheet Set,Home,3,999,03-12-2025,UPI,Returned
+ORD00357,CUS0225,Rohan Gupta,rohan.gupta225@example.com,9515418972,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,3,599,04-02-2025,Cash on Delivery,Delivered
+ORD00358,CUS0292,Aarav Singh,aarav.singh292@example.com,9792860235,Hyderabad,Telangana,500001,Running Shoes,Fashion,3,2499,24-10-2025,Debit Card,Cancelled
+ORD00359,CUS0238,Ishaan Gupta,ishaan.gupta238@example.com,9411691594,Kolkata,West Bengal,700001,Bedsheet Set,Home,1,999,07-04-2025,Credit Card,Cancelled
+ORD00360,CUS0133,Rahul Patel,rahul.patel133@example.com,9234985883,Delhi,Delhi,110001,Desk Organizer,Stationery,5,599,02-06-2025,Cash on Delivery,Cancelled
+ORD00361,CUS0306,Yash Joshi,yash.joshi306@example.com,9592083980,Pune,Maharashtra,411001,Notebook Pack,Stationery,3,299,2025-13-40,Debit Card,Shipped
+ORD00362,CUS0098,Diya Iyer,diya.iyer98@example.com,9806163621,Pune,Maharashtra,411001,,Beauty,5,699,26-06-2025,Cash on Delivery,Shipped
+ORD00363,CUS0272,Arjun Mehta,arjun.mehta272@example.com,9864406655,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,4,1199,17-06-2025,Debit Card,Shipped
+ORD00364,CUS0157,Arjun Verma,arjun.verma157@example.com,9548837107,Chennai,Tamil Nadu,600001,Wireless Mouse,Electronics,3,799,27-07-2025,Cash on Delivery,Processing
+ORD00365,CUS0158,Yash Joshi,yash.joshi158@example.com,9494764958,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,3,1199,09-04-2025,Cash on Delivery,Cancelled
+ORD00366,CUS0041,Neha Khan,neha.khan41@example.com,9214001154,Mumbai,Maharashtra,400001,Water Bottle,Home,4,499,18-04-2025,Cash on Delivery,Shipped
+ORD00367,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Face Serum,Beauty,1,699,27-08-2025,Debit Card,Delivered
+ORD00368,CUS0104,Varun Singh,varun.singh104@example.com,9708264640,Jaipur,Rajasthan,302001,Face Serum,Beauty,1,699,09-10-2025,Credit Card,Cancelled
+ORD00369,CUS0223,Sneha Patel,sneha.patel223@example.com,9135433618,Nagpur,Maharashtra,440001,Face Serum,Beauty,2,699,06-09-2025,Debit Card,Processing
+ORD00370,CUS0373,Rahul Singh,rahul.singh373@example.com,9611824488,Pune,Maharashtra,411001,Shampoo,Beauty,3,399,07-11-2025,Net Banking,Delivered
+ORD00371,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,Rajasthan,302001,Bedsheet Set,Home,1,999,02-10-2025,Debit Card,Processing
+ORD00372,CUS0022,Aarav Mehta,aarav.mehta22@example.com,9465712148,Jaipur,Rajasthan,302001,Running Shoes,Fashion,1,2499,13-08-2025,UPI,Cancelled
+ORD00373,CUS0187,Priya Sharma,priya.sharma187@example.com,9619762873,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,2,999,28-02-2025,Credit Card,Shipped
+ORD00374,CUS0298,Diya Jain,diya.jain298@example.com,9990184007,Hyderabad,Telangana,500001,Notebook Pack,Stationery,3,299,05-07-2025,Debit Card,deliverd
+ORD00375,CUS0185,Aditi Jain,aditi.jain185@example.com,9773908276,Bengaluru,Karnataka,560001,Shampoo,Beauty,3,399,03-08-2025,Credit Card,Returned
+ORD00376,CUS0336,Rohan Joshi,rohan.joshi336@example.com,9505367283,Hyderabad,Telangana,500001,Shampoo,Beauty,4,399,13-06-2025,Credit Card,Processing
+ORD00377,CUS0294,Meera Singh,meera.singh294@example.com,9348638191,Bengaluru,Karnataka,560001,Bedsheet Set,Home,2,999,02-09-2025,Debit Card,Shipped
+ORD00378,CUS0237,Meera Jain,meera.jain237@example.com,9811803682,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,5,799,05-12-2025,UPI,Shipped
+ORD00379,CUS0345,Rohan Patel,rohan.patel345@example.com,9120433352,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,4,299,16-10-2025,Credit Card,Cancelled
+ORD00380,CUS0312,Rohan Gupta,rohan.gupta312@example.com,9854287223,Delhi,Delhi,110001,Desk Organizer,Stationery,5,599,28-11-2025,UPI,Processing
+ORD00381,CUS0344,Rohan Mehta,rohan.mehta344@example.com,9625957341,Ahmedabad,Gujarat,380001,Face Serum,Beauty,4,699,27-10-2025,Credit Card,Returned
+ORD00382,CUS0194,Yash Jain,yash.jain194@example.com,12345,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,3,1499,28-10-2025,UPI,Shipped
+ORD00383,CUS0374,Kavya Joshi,kavya.joshi374@example.com,9894149307,Delhi,Delhi,110001,Desk Organizer,Stationery,5,599,04-01-2025,Net Banking,Shipped
+ORD00384,CUS0315,Rahul Jain,rahul.jain315@example.com,9977257668,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,1,1499,01-12-2025,Debit Card,Cancelled
+ORD00385,CUS0329,Rohan Iyer,rohan.iyer329@example.com,9745487227,Delhi,Delhi,110001,Running Shoes,Fashion,2,2499,08-07-2025,Net Banking,Delivered
+ORD00386,CUS0123,Varun Iyer,varun.iyer123@example.com,9754098361,Pune,Maharashtra,411001,Running Shoes,Fashion,1,2499,08-10-2025,Net Banking,Cancelled
+ORD00387,CUS0075,Tanvi Patel,tanvi.patel75@example.com,9103688974,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,3,2499,01-01-2035,UPI,Shipped
+ORD00388,CUS0228,Varun Gupta,varun.gupta228@example.com,9699698908,Kolkata,West Bengal,700001,Water Bottle,Home,3,499,07-07-2025,Credit Card,Processing
+ORD00389,CUS0342,Varun Joshi,varun.joshi342@example.com,9875421560,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,1,799,19-03-2025,Debit Card,Delivered
+ORD00390,CUS0333,Riya Khan,riya.khan333@example.com,9635726075,Mumbai,Maharashtra,400001,Water Bottle,Home,1,499,24-09-2025,Credit Card,Delivered
+ORD00391,CUS0232,Ananya Joshi,ananya.joshi232@example.com,9780144086,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,3,799,21-12-2025,Cash on Delivery,Returned
+ORD00392,CUS0093,Meera Iyer,meera.iyer93@example.com,9962148082,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,0,1199,08-05-2025,Debit Card,Processing
+ORD00393,CUS0321,Yash Sharma,yash.sharma321@example.com,9776890765,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,4,299,27-08-2025,Credit Card,Processing
+ORD00394,CUS0040,Diya Mehta,diya.mehta40@example.com,9424226162,Bengaluru,Karnataka,560001,Running Shoes,Fashion,1,2499,28-08-2025,UPI,Cancelled
+ORD00395,CUS0306,Yash Joshi,yash.joshi306@example.com,9592083980,Pune,Maharashtra,411001,Wireless Mouse,Electronics,2,799,22-02-2025,Net Banking,Processing
+ORD00396,CUS0352,Ananya Sharma,ananya.sharma352@example.com,9720891749,Chennai,Tamil Nadu,600001,Shampoo,Beauty,4,399,27-12-2025,UPI,Delivered
+ORD00397,CUS0244,Rohan Singh,rohan.singh244@example.com,9846051564,Ahmedabad,Maharashtra,380001,Desk Organizer,Stationery,5,599,09-06-2025,Cash on Delivery,Shipped
+ORD00398,CUS0283,Ishaan Patel,ishaan.patel283@example.com,9749847623,delhi,Delhi,110001,Shampoo,Beauty,4,399,05-06-2025,UPI,Shipped
+ORD00399,CUS0153,Rohan Mehta,rohan.mehta153@example.com,9968068532,Pune,Maharashtra,411001,Wireless Mouse,Electronics,4,799,28-04-2025,Debit Card,Shipped
+ORD00399,CUS0153,Rohan Mehta,rohan.mehta153@example.com,9968068532,Pune,Maharashtra,411001,Wireless Mouse,Electronics,4,799,28-04-2025,Debit Card,Shipped
+ORD00401,CUS0342,Varun Joshi,varun.joshi342@example.com,9875421560,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,1,1499,19-08-2025,Cash on Delivery,Returned
+ORD00402,CUS0332,Aditi Khan,aditi.khan332@example.com,9361726256,Delhi,Delhi,110001,Face Serum,Beauty,2,699,27-08-2025,UPI,Returned
+ORD00403,CUS0367,Aditi Mehta,aditi.mehta367@example.com,9383922540,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,4,299,28-08-2025,Cash on Delivery,Delivered
+ORD00404,CUS0259,Aarav Gupta,aarav.gupta259@example.com,9355080160,Pune,Maharashtra,411001,Cotton Kurta,Fashion,2,1199,15-08-2025,UPI,Delivered
+ORD00405,CUS0166,Yash Iyer,yash.iyer166@example.com,9304708650,Bengaluru,Karnataka,560001,Shampoo,Beauty,3,399,18-04-2025,Net Banking,Cancelled
+ORD00406,CUS0396,Meera Verma,meera.verma396@example.com,9525371744,Jaipur,Rajasthan,302001,Face Serum,Beauty,4,699,04-01-2025,Cash on Delivery,Processing
+ORD00407,CUS0326,Aditi Joshi,aditi.joshi326@example.com,9248995118,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,1,1199,01-12-2025,UPI,Shipped
+ORD00408,CUS0148,Rohan Iyer,rohan.iyer148@example.com,9332527226,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,3,599,19-02-2025,Cash on Delivery,Delivered
+ORD00409,CUS0247,Rahul Patel,rahul.patel247@example.com,9403350618,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,1,1499,04-05-2025,Net Banking,Processing
+ORD00410,CUS0361,Varun Gupta,varun.gupta361@example.com,9782582312,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,4,799,26-02-2025,Credit Card,Shipped
+ORD00411,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Running Shoes,Fashion,2,2499,26-11-2025,Cash on Delivery,Cancelled
+ORD00412,CUS0259,Aarav Gupta,aarav.gupta259@example.com,9355080160,Pune,Maharashtra,411001,Wireless Mouse,Electronics,5,799,01-06-2025,Debit Card,Shipped
+ORD00413,CUS0200,Aarav Mehta,aarav.mehta200@example.com,9258183288,Pune,Maharashtra,411001,Running Shoes,Fashion,1,2499,02-03-2025,Debit Card,Returned
+ORD00414,CUS0360,Diya Mehta,name.example.com,9865426853,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,11-02-2025,UPI,Returned
+ORD00415,CUS0087,Rohan Verma,,9814001083,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,5,1199,27-06-2025,Debit Card,Cancelled
+ORD00416,CUS0073,Tanvi Patel,tanvi.patel73@example.com,9757497301,Mumbai,Maharashtra,12A45,Bluetooth Speaker,Electronics,5,1499,28-06-2025,Debit Card,Cancelled
+ORD00417,CUS0013,Priya Mehta,priya.mehta13@example.com,9960247563,Bengaluru,Karnataka,560001,Face Serum,Beauty,1,699,17-08-2025,Cash on Delivery,Processing
+ORD00418,CUS0318,Neha Verma,neha.verma318@example.com,9804837788,Hyderabad,Telangana,500001,Shampoo,Beauty,4,399,07-09-2025,Net Banking,Returned
+ORD00419,CUS0007,Ananya Iyer,ananya.iyer7@example.com,9609946547,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,1,299,16-07-2025,Cash on Delivery,Shipped
+ORD00420,CUS0061,Kavya Sharma,kavya.sharma61@example.com,9932206127,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,5,599,01-07-2025,Debit Card,Delivered
+ORD00421,CUS0162,Aditi Verma,aditi.verma162@example.com,9817839008,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,1,1199,25-08-2025,UPI,Cancelled
+ORD00422,CUS0065,Sneha Singh,sneha.singh65@example.com,9819140707,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,3,1499,09-11-2025,Net Banking,Returned
+ORD00423,CUS0102,Ananya Patel,ananya.patel102@example.com,9717555280,Bengaluru,Karnataka,560001,Water Bottle,Home,4,499,02-05-2025,UPI,Returned
+ORD00424,CUS0223,Sneha Patel,sneha.patel223@example.com,9135433618,Nagpur,Maharashtra,440001,Shampoo,Beauty,5,399,05-09-2025,Net Banking,Returned
+ORD00425,CUS0302,Sneha Joshi,sneha.joshi302@example.com,9174056297,Chennai,Tamil Nadu,600001,Water Bottle,Home,5,499,02-02-2025,Debit Card,Processing
+ORD00426,CUS0154,Tanvi Singh,tanvi.singh154@example.com,9601372423,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,5,1199,22-07-2025,Credit Card,Delivered
+ORD00427,CUS0381,Ananya Patel,ananya.patel381@example.com,9918858650,Jaipur,Rajasthan,302001,Water Bottle,Home,4,499,14-11-2025,Cash on Delivery,Processing
+ORD00428,CUS0361,Varun Gupta,varun.gupta361@example.com,9782582312,Jaipur,Rajasthan,302001,Running Shoes,Fashion,1,2499,16-11-2025,Cash on Delivery,Returned
+ORD00429,CUS0369,Alisha Singh,alisha.singh369@example.com,9458229193,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,3,1499,27-12-2025,Cash on Delivery,Shipped
+ORD00430,CUS0399,Aarav Gupta,aarav.gupta399@example.com,9506442335,Pune,,411001,Water Bottle,Home,1,499,20-08-2025,Net Banking,Cancelled
+ORD00431,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,4,2499,09-10-2025,Cash on Delivery,Returned
+ORD00432,CUS0381,Ananya Patel,ananya.patel381@example.com,9918858650,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,5,1199,16-08-2025,Debit Card,Shipped
+ORD00433,CUS0048,Arjun Patel,arjun.patel48@example.com,9300850213,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,2,1499,09-11-2025,Debit Card,Returned
+ORD00434,CUS0039,Priya Mehta,priya.mehta39@example.com,9844166400,Kolkata,West Bengal,700001,Running Shoes,Electronics,5,2499,18-06-2025,UPI,Shipped
+ORD00435,CUS0386,Arjun Gupta,arjun.gupta386@example.com,9612409988,Mumbai,Maharashtra,400001,Face Serum,Beauty,4,699,22-11-2025,Net Banking,Processing
+ORD00436,CUS0162,Aditi Verma,aditi.verma162@example.com,9817839008,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,5,1499,07-02-2025,Cash on Delivery,Processing
+ORD00437,CUS0237,Meera Jain,meera.jain237@example.com,9811803682,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,4,799,21-08-2025,Net Banking,Returned
+ORD00438,CUS0372,Meera Mehta,meera.mehta372@example.com,9986423900,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,4,799,07-05-2025,Credit Card,Shipped
+ORD00439,CUS0258,Rahul Gupta,rahul.gupta258@example.com,9291219857,Delhi,Delhi,110001,Notebook Pack,Stationery,3,299,08-02-2025,Cash on Delivery,Processing
+ORD00440,CUS0289,Alisha Joshi,alisha.joshi289@example.com,9371976848,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,1,2499,20-04-2025,Credit Card,Delivered
+ORD00441,CUS0266,Ananya Khan,ananya.khan266@example.com,9963118667,Bengaluru,Karnataka,560001,Face Serum,Beauty,1,699,26-11-2025,Debit Card,Delivered
+ORD00442,CUS0347,Sneha Joshi,sneha.joshi347@example.com,9586535694,Mumbai,Maharashtra,400001,Face Serum,Beauty,75,699,03-04-2025,Debit Card,Shipped
+ORD00443,CUS0121,Alisha Verma,alisha.verma121@example.com,9362602628,Hyderabad,Telangana,500001,Shampoo,Beauty,5,399,05-06-2025,UPI,Returned
+ORD00444,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,Kolkata,West Bengal,700001,Running Shoes,Fashion,1,2499,06-08-2025,Debit Card,Processing
+ORD00445,CUS0303,Diya Mehta,diya.mehta303@example.com,9115248614,Hyderabad,Telangana,500001,,Stationery,2,299,10-07-2025,Credit Card,Processing
+ORD00446,CUS0161,Neha Gupta,neha.gupta161@example.com,9870512708,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,1,2499,10-07-2025,Net Banking,Returned
+ORD00447,CUS0349,Arjun Khan,arjun.khan349@example.com,9304595101,Chennai,Tamil Nadu,600001,Shampoo,Beauty,1,399,07-07-2025,Cash on Delivery,Cancelled
+ORD00448,CUS0049,Alisha Patel,alisha.patel49@example.com,9821281794,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,3,599,01-04-2025,Credit Card,Delivered
+ORD00449,CUS0092,Aditi Jain,aditi.jain92@example.com,9721514729,Kolkata,West Bengal,700001,Shampoo,Beauty,1,399,22-06-2025,Net Banking,Delivered
+ORD00450,CUS0092,Varun Gupta,varun.gupta361@example.com,9782582312,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,5,299,17-03-2025,UPI,Shipped
+ORD00451,CUS0239,Ananya Patel,ananya.patel239@example.com,9555687236,Pune,Maharashtra,411001,Wireless Mouse,Electronics,3,799,23-06-2025,upi,Cancelled
+ORD00452,CUS0147,Sneha Joshi,sneha.joshi147@example.com,9595162610,Bengaluru,Karnataka,560001,Face Serum,Beauty,1,699,11-09-2025,Debit Card,Delivered
+ORD00453,CUS0076,Varun Iyer,varun.iyer76@example.com,9253933855,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,4,1499,14-02-2025,Debit Card,Cancelled
+ORD00454,CUS0080,Kavya Joshi,kavya.joshi80@example.com,9428817252,Pune,Maharashtra,411001,Face Serum,Beauty,4,699,20-08-2025,UPI,Processing
+ORD00455,CUS0330,Varun Gupta,varun.gupta330@example.com,9440206195,Delhi,Delhi,110001,Water Bottle,Home,1,499,22-01-2025,Net Banking,Delivered
+ORD00456,CUS0248,Sneha Khan,sneha.khan248@example.com,9782600735,Kolkata,West Bengal,700001,Water Bottle,Home,3,499,13-05-2025,Debit Card,Cancelled
+ORD00457,CUS0240,Alisha Mehta,alisha.mehta240@example.com,9727897746,Bengaluru,Karnataka,560001,Water Bottle,Home,1,499,17-11-2025,Credit Card,Returned
+ORD00458,CUS0114,Neha Sharma,neha.sharma114@example.com,9353330095,Hyderabad,Telangana,500001,Shampoo,Beauty,4,399,20-08-2025,Net Banking,Cancelled
+ORD00459,CUS0148,Rohan Iyer,rohan.iyer148@example.com,9332527226,Nagpur,Maharashtra,440001,Running Shoes,Fashion,1,2499,26-04-2025,Credit Card,Delivered
+ORD00460,CUS0236,Priya Joshi,priya.joshi236@example.com,9630109190,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,4,1499,20-06-2025,UPI,Cancelled
+ORD00461,CUS0115,Ananya Jain,ananya.jain115@example.com,9428785051,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,3,799,27-11-2025,UPI,Returned
+ORD00462,CUS0278,Neha Patel,neha.patel278@example.com,9264356143,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,4,299,08-07-2025,UPI,Cancelled
+ORD00463,CUS0292,Aarav Singh,aarav.singh292@example.com,9792860235,Hyderabad,Telangana,500001,Water Bottle,Home,3,499,09-01-2025,Net Banking,Shipped
+ORD00464,CUS0217,Arjun Mehta,arjun.mehta217@example.com,9209028111,Kolkata,West Bengal,700001,Cotton Kurta,Fashion,3,-499,08-01-2025,Cash on Delivery,Cancelled
+ORD00465,CUS0297,Riya Khan,riya.khan297@example.com,9467750358,Kolkata,West Bengal,700001,Shampoo,Beauty,1,399,09-11-2025,Cash on Delivery,Delivered
+ORD00466,CUS0139,Rahul Sharma,rahul.sharma139@example.com,9503632355,Kolkata,West Bengal,700001,Desk Organizer,Stationery,5,599,03-08-2025,Credit Card,Processing
+ORD00467,CUS0221,Rohan Singh,rohan.singh221@example.com,9863974619,Hyderabad,Telangana,500001,Cotton Kurta,Fashion,3,1199,05-11-2025,UPI,Returned
+ORD00468,CUS0338,Rohan Iyer,rohan.iyer338@example.com,9277752606,Nagpur,Maharashtra,440001,Water Bottle,Home,3,499,08-12-2025,UPI,Shipped
+ORD00469,CUS0320,Yash Mehta,yash.mehta320@example.com,9125257321,Bengaluru,Karnataka,560001,Shampoo,Beauty,4,399,06-09-2025,Credit Card,Shipped
+ORD00470,CUS0358,Diya Gupta,diya.gupta358@example.com,9467914363,Hyderabad,Telangana,500001,Bedsheet Set,Home,5,999,26-10-2025,Cash on Delivery,Delivered
+ORD00471,CUS0066,Yash Sharma,yash.sharma66@example.com,12345,Pune,Maharashtra,411001,Bedsheet Set,Home,4,999,14-02-2025,Net Banking,Cancelled
+ORD00472,CUS0002,Priya Sharma,priya.sharma2@example.com,9216393307,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,5,1499,24-02-2025,UPI,Shipped
+ORD00473,CUS0224,Rohan Patel,rohan.patel224@example.com,9273458408,Bengaluru,Karnataka,560001,Shampoo,Beauty,4,399,02-10-2025,Cash on Delivery,Processing
+ORD00474,CUS0357,Ananya Patel,ananya.patel357@example.com,9866863123,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,1,1199,25-02-2025,Net Banking,Shipped
+ORD00475,CUS0043,Diya Gupta,diya.gupta43@example.com,9272027067,Jaipur,Rajasthan,302001,Water Bottle,Home,4,499,04-06-2025,Cash on Delivery,Shipped
+ORD00476,CUS0267,Arjun Joshi,arjun.joshi267@example.com,9959372390,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,4,1499,25-04-2025,Debit Card,Processing
+ORD00477,CUS0063,Rahul Joshi,rahul.joshi63@example.com,9543128074,Kolkata,West Bengal,700001,Bedsheet Set,Home,1,999,15-05-2025,Cash on Delivery,Delivered
+ORD00478,CUS0124,Yash Gupta,yash.gupta124@example.com,9328178781,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,2,599,15-05-2025,Debit Card,Returned
+ORD00479,CUS0371,Aditi Gupta,aditi.gupta371@example.com,9996640242,Hyderabad,Telangana,500001,Desk Organizer,Stationery,1,599,11-04-2025,UPI,Returned
+ORD00480,CUS0069,Ananya Jain,ananya.jain69@example.com,9571220899,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,5,999,14-12-2025,UPI,Shipped
+ORD00481,CUS0101,Rahul Khan,rahul.khan101@example.com,9574840299,Nagpur,Maharashtra,440001,Running Shoes,Fashion,2,2499,09-08-2025,UPI,Returned
+ORD00482,CUS0086,Alisha Iyer,,9761030495,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,2,1199,22-08-2025,Cash on Delivery,Cancelled
+ORD00483,CUS0279,Ishaan Sharma,ishaan.sharma279@example.com,9564422125,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,1,1199,28-07-2025,Debit Card,deliverd
+ORD00484,CUS0261,Rahul Singh,rahul.singh261@example.com,9418955058,Delhi,Delhi,110001,Wireless Mouse,Electronics,5,799,08-05-2025,Credit Card,Cancelled
+ORD00485,CUS0134,Tanvi Jain,tanvi.jain134@example.com,9176069556,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,1,799,06-04-2025,Cash on Delivery,Processing
+ORD00486,CUS0253,Rohan Singh,rohan.singh253@example.com,9229477182,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,5,1499,24-07-2025,Debit Card,Returned
+ORD00487,CUS0002,Priya Sharma,priya.sharma2@example.com,9216393307,Hyderabad,Telangana,500001,Shampoo,Beauty,1,399,09-11-2025,UPI,Cancelled
+ORD00488,CUS0330,Varun Gupta,varun.gupta330@example.com,9440206195,Delhi,Delhi,110001,Notebook Pack,Stationery,4,999999,13-05-2025,UPI,Shipped
+ORD00489,CUS0086,Alisha Iyer,alisha.iyer86@example.com,9761030495,chennai,Tamil Nadu,600001,Notebook Pack,Stationery,4,299,10-07-2025,Cash on Delivery,Cancelled
+ORD00490,CUS0373,Rahul Singh,rahul.singh373@example.com,9611824488,Pune,Maharashtra,411001,Face Serum,Beauty,2,699,05-12-2025,UPI,Cancelled
+ORD00491,CUS0165,Sneha Verma,sneha.verma165@example.com,9430563900,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,4,1199,25-01-2025,Credit Card,Shipped
+ORD00492,CUS0359,Rahul Singh,rahul.singh359@example.com,9296232779,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,4,1499,19-11-2025,Cash on Delivery,Returned
+ORD00493,CUS0118,Rahul Patel,name.example.com,9425009707,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,4,1199,13-09-2025,Net Banking,Delivered
+ORD00494,CUS0090,Priya Verma,priya.verma90@example.com,9561771163,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,19-08-2025,UPI,Returned
+ORD00495,CUS0232,Ananya Joshi,ananya.joshi232@example.com,9780144086,Bengaluru,Karnataka,560001,Water Bottle,Home,3,499,25-06-2025,Cash on Delivery,Shipped
+ORD00496,CUS0099,Arjun Jain,arjun.jain99@example.com,9379885631,Mumbai,Maharashtra,400001,Shampoo,Beauty,4,399,27-08-2025,Credit Card,Processing
+ORD00497,CUS0202,Riya Gupta,riya.gupta202@example.com,9612233532,Pune,Maharashtra,411001,Shampoo,Beauty,2,399,28-03-2025,Credit Card,Processing
+ORD00498,CUS0254,Riya Khan,riya.khan254@example.com,9748520143,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,2,1199,20-11-2025,Net Banking,Cancelled
+ORD00499,CUS0230,Arjun Singh,arjun.singh230@example.com,9237986286,Mumbai,Maharashtra,400001,Running Shoes,Fashion,5,2499,04-06-2025,Debit Card,Returned
+ORD00499,CUS0230,Arjun Singh,arjun.singh230@example.com,9237986286,Mumbai,Maharashtra,400001,Running Shoes,Fashion,5,2499,04-06-2025,Debit Card,Returned
+ORD00501,CUS0391,Riya Sharma,riya.sharma391@example.com,9478363703,Kolkata,West Bengal,700001,Desk Organizer,Stationery,5,599,28-08-2025,UPI,Delivered
+ORD00502,CUS0170,Varun Iyer,varun.iyer170@example.com,9105601237,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,3,1499,23-01-2025,Debit Card,Processing
+ORD00503,CUS0040,Diya Mehta,diya.mehta40@example.com,9424226162,Bengaluru,Karnataka,560001,Running Shoes,Fashion,2,2499,09-12-2025,Net Banking,Cancelled
+ORD00504,CUS0163,Neha Sharma,neha.sharma163@example.com,9651117313,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,4,1199,01-01-2025,Credit Card,Returned
+ORD00505,CUS0346,Alisha Mehta,alisha.mehta346@example.com,9624265560,Mumbai,Maharashtra,400001,Bedsheet Set,Home,0,999,26-04-2025,Cash on Delivery,Delivered
+ORD00506,CUS0135,Rohan Singh,rohan.singh135@example.com,9307760404,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,13-01-2025,UPI,Shipped
+ORD00507,CUS0233,Sneha Mehta,sneha.mehta233@example.com,9174726265,Ahmedabad,Gujarat,380001,Water Bottle,Home,1,499,03-08-2025,Cash on Delivery,Shipped
+ORD00508,CUS0092,Aditi Jain,aditi.jain92@example.com,9721514729,Kolkata,West Bengal,700001,Shampoo,Beauty,3,399,23-04-2025,Debit Card,Cancelled
+ORD00509,CUS0345,Rohan Patel,rohan.patel345@example.com,9120433352,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,999,19-08-2025,Net Banking,Cancelled
+ORD00510,CUS0261,Rahul Singh,rahul.singh261@example.com,9418955058,Delhi,Delhi,110001,Shampoo,Beauty,2,399,09-11-2025,Net Banking,Delivered
+ORD00511,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,4,299,03-03-2025,Credit Card,Shipped
+ORD00512,CUS0192,Riya Joshi,riya.joshi192@example.com,9813206061,Bengaluru,Karnataka,560001,Running Shoes,Fashion,3,2499,27-07-2025,Credit Card,Shipped
+ORD00513,CUS0132,Aarav Joshi,aarav.joshi132@example.com,9167655740,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,1,1199,26-12-2025,Credit Card,Processing
+ORD00514,CUS0305,Meera Joshi,meera.joshi305@example.com,9911911491,Kolkata,West Bengal,700001,Water Bottle,Home,1,499,17-09-2025,Debit Card,Delivered
+ORD00515,CUS0337,Rohan Mehta,rohan.mehta337@example.com,9358027953,Chennai,Tamil Nadu,600001,Face Serum,Beauty,2,699,10-06-2025,Cash on Delivery,Cancelled
+ORD00516,CUS0307,Varun Joshi,varun.joshi307@example.com,9425577934,Kolkata,West Bengal,700001,Bedsheet Set,Home,5,999,13-04-2025,Net Banking,Cancelled
+ORD00517,CUS0040,Diya Mehta,diya.mehta40@example.com,9424226162,Bengaluru,Karnataka,560001,Running Shoes,Fashion,5,2499,21-06-2025,Cash on Delivery,Cancelled
+ORD00518,CUS0141,Riya Khan,riya.khan141@example.com,9127281008,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,3,799,22-11-2025,Cash on Delivery,Cancelled
+ORD00519,CUS0015,Meera Jain,meera.jain15@example.com,9442811861,Delhi,Delhi,110001,Notebook Pack,Stationery,4,299,26-08-2025,Credit Card,Processing
+ORD00520,CUS0259,Aarav Gupta,aarav.gupta259@example.com,9355080160,Pune,Maharashtra,411001,Notebook Pack,Stationery,5,299,07-12-2025,Cash on Delivery,Delivered
+ORD00521,CUS0144,Alisha Khan,alisha.khan144@example.com,9657381639,Kolkata,West Bengal,700001,Water Bottle,Home,1,499,21-04-2025,Debit Card,Delivered
+ORD00522,CUS0166,Yash Iyer,yash.iyer166@example.com,9304708650,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,4,1499,19-02-2025,Net Banking,Cancelled
+ORD00523,CUS0296,Aarav Mehta,aarav.mehta296@example.com,9230485055,Chennai,Tamil Nadu,600001,Wireless Mouse,Electronics,1,799,22-09-2025,Debit Card,Delivered
+ORD00524,CUS0243,Ishaan Verma,ishaan.verma243@example.com,9778081299,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,2,599,04-01-2025,Debit Card,Cancelled
+ORD00525,CUS0073,Tanvi Patel,tanvi.patel73@example.com,9757497301,Mumbai,Maharashtra,400001,Bedsheet Set,Home,5,999,02-01-2025,Debit Card,Processing
+ORD00526,CUS0288,Varun Sharma,varun.sharma288@example.com,9513077789,Pune,Maharashtra,411001,Running Shoes,Fashion,5,2499,13-02-2025,Credit Card,Shipped
+ORD00527,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,,302001,Water Bottle,Home,4,499,04-02-2025,Debit Card,Processing
+ORD00528,CUS0098,Diya Iyer,diya.iyer98@example.com,9806163621,Pune,Maharashtra,411001,,Stationery,3,299,26-01-2025,Credit Card,Shipped
+ORD00529,CUS0233,Sneha Mehta,sneha.mehta233@example.com,9174726265,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,2,2499,26-04-2025,Net Banking,Processing
+ORD00530,CUS0190,Kavya Mehta,kavya.mehta190@example.com,9243795515,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,5,599,10-07-2025,Debit Card,Processing
+ORD00531,CUS0279,Ishaan Sharma,ishaan.sharma279@example.com,9564422125,Chennai,Tamil Nadu,600001,Wireless Mouse,Electronics,3,799,16-09-2025,Debit Card,Delivered
+ORD00532,CUS0202,Riya Gupta,riya.gupta202@example.com,9612233532,Pune,Maharashtra,411001,Face Serum,Beauty,2,699,16-01-2025,Debit Card,Delivered
+ORD00533,CUS0084,Yash Verma,yash.verma84@example.com,9578252923,Pune,Maharashtra,411001,Water Bottle,Home,5,499,01-05-2025,UPI,Processing
+ORD00534,CUS0104,Varun Singh,varun.singh104@example.com,9708264640,Jaipur,Rajasthan,302001,Bedsheet Set,Home,4,999,24-11-2025,Credit Card,Returned
+ORD00535,CUS0278,Neha Patel,neha.patel278@example.com,9264356143,Chennai,Tamil Nadu,600001,Water Bottle,Home,3,499,04-11-2025,Credit Card,Cancelled
+ORD00536,CUS0078,Sneha Mehta,sneha.mehta78@example.com,9132085225,Delhi,Delhi,110001,Bedsheet Set,Home,5,999,01-01-2035,Credit Card,Cancelled
+ORD00537,CUS0018,Yash Joshi,yash.joshi18@example.com,9926194821,Delhi,Delhi,110001,Notebook Pack,Stationery,1,299,16-01-2025,Debit Card,Delivered
+ORD00538,CUS0209,Aditi Patel,aditi.patel209@example.com,9409008271,Bengaluru,Karnataka,560001,Face Serum,Beauty,1,699,01-11-2025,Net Banking,Delivered
+ORD00539,CUS0109,Yash Sharma,yash.sharma109@example.com,9106299777,Delhi,Delhi,110001,Wireless Mouse,Electronics,3,799,02-10-2025,Credit Card,Returned
+ORD00540,CUS0059,Aditi Khan,aditi.khan59@example.com,9722155773,Delhi,Delhi,110001,Notebook Pack,Stationery,4,299,04-04-2025,Cash on Delivery,Delivered
+ORD00541,CUS0273,Alisha Verma,alisha.verma273@example.com,9790973556,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,2,799,10-03-2025,Cash on Delivery,Cancelled
+ORD00542,CUS0064,Diya Mehta,diya.mehta64@example.com,9586433121,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,3,2499,27-12-2025,Net Banking,Delivered
+ORD00543,CUS0172,Rohan Patel,rohan.patel172@example.com,9160192339,Mumbai,Maharashtra,400001,Water Bottle,Home,5,499,11-05-2025,Cash on Delivery,Cancelled
+ORD00544,CUS0306,Yash Joshi,yash.joshi306@example.com,9592083980,Pune,Maharashtra,411001,Water Bottle,Home,5,499,03-10-2025,Cash on Delivery,Processing
+ORD00545,CUS0032,Yash Jain,yash.jain32@example.com,9151267748,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,1,1199,16-02-2025,Net Banking,Cancelled
+ORD00546,CUS0017,Aditi Mehta,aditi.mehta17@example.com,9561147082,Kolkata,West Bengal,700001,Notebook Pack,Stationery,1,299,13-10-2025,UPI,Cancelled
+ORD00547,CUS0132,Aarav Joshi,aarav.joshi132@example.com,9167655740,Jaipur,Rajasthan,302001,Water Bottle,Home,4,499,02-04-2025,UPI,Processing
+ORD00548,CUS0324,Rahul Sharma,rahul.sharma324@example.com,9630199412,Nagpur,Gujarat,440001,Desk Organizer,Stationery,4,599,16-09-2025,Debit Card,Shipped
+ORD00549,CUS0354,Yash Jain,,9405392027,Pune,Maharashtra,411001,Desk Organizer,Stationery,2,599,18-09-2025,Cash on Delivery,Returned
+ORD00550,CUS0180,Kavya Mehta,kavya.mehta180@example.com,9789680704,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,4,299,22-11-2025,UPI,Returned
+ORD00551,CUS0267,Arjun Joshi,arjun.joshi267@example.com,9959372390,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,1,299,18-05-2025,Net Banking,Delivered
+ORD00552,CUS0256,Alisha Patel,alisha.patel256@example.com,9217946901,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,4,1499,11-06-2025,Net Banking,Processing
+ORD00553,CUS0277,Riya Singh,riya.singh277@example.com,9555201366,Bengaluru,Karnataka,560001,Water Bottle,Home,2,499,26-11-2025,Credit Card,Processing
+ORD00554,CUS0308,Priya Verma,priya.verma308@example.com,9367882630,Pune,Maharashtra,411001,Shampoo,Beauty,3,399,18-05-2025,upi,Shipped
+ORD00555,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,3,799,16-06-2025,Cash on Delivery,Returned
+ORD00556,CUS0133,Rahul Patel,rahul.patel133@example.com,9234985883,Delhi,Delhi,110001,Cotton Kurta,Fashion,1,1199,05-01-2025,Net Banking,Returned
+ORD00557,CUS0330,Varun Gupta,varun.gupta330@example.com,9440206195,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,3,1499,22-01-2025,UPI,Delivered
+ORD00558,CUS0002,Priya Sharma,priya.sharma2@example.com,9216393307,Hyderabad,Telangana,500001,Wireless Mouse,Electronics,3,799,27-04-2025,Net Banking,Delivered
+ORD00559,CUS0055,Kavya Iyer,kavya.iyer55@example.com,9791989025,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,4,299,14-11-2025,Net Banking,Returned
+ORD00560,CUS0120,Sneha Khan,sneha.khan120@example.com,12345,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,3,599,19-09-2025,Credit Card,Shipped
+ORD00561,CUS0215,Neha Khan,neha.khan215@example.com,9175221312,Pune,Maharashtra,411001,Face Serum,Beauty,3,699,26-07-2025,Net Banking,Returned
+ORD00562,CUS0333,Riya Khan,riya.khan333@example.com,9635726075,Mumbai,Maharashtra,400001,Shampoo,Beauty,1,399,13-06-2025,Credit Card,Cancelled
+ORD00563,CUS0139,Rahul Sharma,rahul.sharma139@example.com,9503632355,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,1,1499,17-04-2025,Cash on Delivery,Delivered
+ORD00564,CUS0165,Sneha Verma,sneha.verma165@example.com,9430563900,Bengaluru,Karnataka,560001,Face Serum,Beauty,5,699,19-03-2025,Debit Card,Cancelled
+ORD00565,CUS0287,Aditi Iyer,aditi.iyer287@example.com,9222599671,Delhi,Delhi,110001,Desk Organizer,Stationery,3,599,04-08-2025,Cash on Delivery,Returned
+ORD00566,CUS0140,Aditi Khan,aditi.khan140@example.com,9221363522,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,3,1499,08-10-2025,Net Banking,Processing
+ORD00567,CUS0283,Ishaan Patel,ishaan.patel283@example.com,9749847623,Delhi,Delhi,110001,Cotton Kurta,Fashion,1,1199,04-04-2025,UPI,Shipped
+ORD00568,CUS0284,Ishaan Verma,ishaan.verma284@example.com,9749748251,Kolkata,West Bengal,700001,Running Shoes,Fashion,5,2499,12-06-2025,Net Banking,Processing
+ORD00569,CUS0178,Arjun Gupta,arjun.gupta178@example.com,9118431081,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,75,799,20-03-2025,Credit Card,Shipped
+ORD00570,CUS0283,Ishaan Patel,ishaan.patel283@example.com,9749847623,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,3,1499,22-03-2025,Net Banking,Shipped
+ORD00571,CUS0392,Kavya Jain,kavya.jain392@example.com,9618138689,Pune,Maharashtra,411001,Wireless Mouse,Electronics,5,799,14-05-2025,Credit Card,Shipped
+ORD00572,CUS0078,Sneha Mehta,name.example.com,9132085225,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,2,1499,10-02-2025,Cash on Delivery,Cancelled
+ORD00573,CUS0022,Aarav Mehta,aarav.mehta22@example.com,9465712148,Jaipur,Rajasthan,12A45,Shampoo,Beauty,2,399,18-08-2025,Cash on Delivery,Processing
+ORD00574,CUS0106,Kavya Verma,kavya.verma106@example.com,9672925941,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,1,1199,11-05-2025,Debit Card,Delivered
+ORD00575,CUS0005,Riya Iyer,riya.iyer5@example.com,9517935652,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,3,799,19-09-2025,Net Banking,Shipped
+ORD00576,CUS0133,Rahul Patel,rahul.patel133@example.com,9234985883,Delhi,Delhi,110001,Wireless Mouse,Electronics,3,799,19-05-2025,Credit Card,Delivered
+ORD00577,CUS0205,Ishaan Gupta,ishaan.gupta205@example.com,9951126711,Pune,Maharashtra,411001,Running Shoes,Fashion,3,2499,09-12-2025,Debit Card,Shipped
+ORD00578,CUS0397,Meera Khan,meera.khan397@example.com,9958979736,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,5,599,09-12-2025,Cash on Delivery,Returned
+ORD00579,CUS0088,Kavya Sharma,kavya.sharma88@example.com,9155739708,Mumbai,Maharashtra,400001,Shampoo,Beauty,2,399,15-07-2025,UPI,Delivered
+ORD00580,CUS0078,Sneha Mehta,sneha.mehta78@example.com,9132085225,delhi,Delhi,110001,Cotton Kurta,Fashion,2,1199,06-03-2025,Credit Card,Returned
+ORD00581,CUS0094,Alisha Iyer,alisha.iyer94@example.com,9196336107,Nagpur,Maharashtra,440001,Shampoo,Beauty,5,399,15-12-2025,Net Banking,Returned
+ORD00582,CUS0089,Diya Jain,diya.jain89@example.com,9328604315,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,2,1199,14-03-2025,UPI,Processing
+ORD00583,CUS0065,Sneha Singh,sneha.singh65@example.com,9819140707,Jaipur,Rajasthan,302001,Running Shoes,Fashion,3,2499,11-04-2025,Debit Card,Returned
+ORD00584,CUS0176,Neha Khan,neha.khan176@example.com,9490791488,Mumbai,Maharashtra,400001,Face Serum,Beauty,5,699,06-08-2025,UPI,Cancelled
+ORD00585,CUS0301,Aarav Verma,aarav.verma301@example.com,9225197114,Hyderabad,Telangana,500001,Desk Organizer,Stationery,3,599,23-05-2025,Credit Card,Cancelled
+ORD00586,CUS0399,Aarav Gupta,aarav.gupta399@example.com,9506442335,Pune,Maharashtra,411001,Face Serum,Beauty,5,699,15-05-2025,UPI,Shipped
+ORD00587,CUS0083,Tanvi Patel,tanvi.patel83@example.com,9169861410,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,2,599,22-10-2025,Debit Card,Delivered
+ORD00588,CUS0204,Meera Sharma,meera.sharma204@example.com,9490972145,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,2,1199,09-10-2025,Cash on Delivery,Delivered
+ORD00589,CUS0294,Meera Singh,meera.singh294@example.com,9348638191,Bengaluru,Karnataka,560001,Bedsheet Set,Home,2,999,03-11-2025,Debit Card,Processing
+ORD00590,CUS0247,Rahul Patel,rahul.patel247@example.com,9403350618,Mumbai,Maharashtra,400001,Shampoo,Beauty,2,399,07-01-2025,Credit Card,Cancelled
+ORD00591,CUS0198,Ananya Singh,ananya.singh198@example.com,9744878809,Bengaluru,Karnataka,560001,Water Bottle,Home,3,499,22-12-2025,Debit Card,Delivered
+ORD00592,CUS0301,Aarav Verma,aarav.verma301@example.com,9225197114,Hyderabad,Telangana,500001,Wireless Mouse,Electronics,2,799,23-10-2025,Cash on Delivery,deliverd
+ORD00593,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,2,599,26-08-2025,Net Banking,Shipped
+ORD00594,CUS0052,Aarav Khan,aarav.khan52@example.com,9648319598,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,3,1499,26-04-2025,Debit Card,Cancelled
+ORD00595,CUS0287,Aditi Iyer,aditi.iyer287@example.com,9222599671,Delhi,Delhi,110001,Bedsheet Set,Home,5,-499,08-01-2025,Net Banking,Cancelled
+ORD00596,CUS0148,Rohan Iyer,rohan.iyer148@example.com,9332527226,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,4,799,21-07-2025,Cash on Delivery,Shipped
+ORD00597,CUS0345,Rohan Patel,rohan.patel345@example.com,9120433352,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Fashion,3,1499,03-01-2025,UPI,Returned
+ORD00598,CUS0335,Meera Khan,meera.khan335@example.com,9621493384,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,3,299,14-03-2025,Cash on Delivery,Delivered
+ORD00599,CUS0165,Sneha Verma,sneha.verma165@example.com,9430563900,Bengaluru,Karnataka,560001,Bedsheet Set,Home,3,999,13-07-2025,Debit Card,Delivered
+ORD00599,CUS0165,Sneha Verma,sneha.verma165@example.com,9430563900,Bengaluru,Karnataka,560001,Bedsheet Set,Home,3,999,13-07-2025,Debit Card,Delivered
+ORD00601,CUS0123,Varun Iyer,varun.iyer123@example.com,9754098361,Pune,Maharashtra,411001,Wireless Mouse,Electronics,1,799,25-07-2025,Debit Card,Shipped
+ORD00602,CUS0047,Ananya Patel,ananya.patel47@example.com,9619178396,Pune,Maharashtra,411001,Desk Organizer,Stationery,5,599,27-12-2025,Credit Card,Delivered
+ORD00603,CUS0313,Neha Gupta,neha.gupta313@example.com,9579130656,Nagpur,Maharashtra,440001,Face Serum,Beauty,2,699,13-01-2025,Credit Card,Cancelled
+ORD00604,CUS0391,Riya Sharma,riya.sharma391@example.com,9478363703,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,4,1499,10-06-2025,Credit Card,Shipped
+ORD00605,CUS0029,Sneha Joshi,sneha.joshi29@example.com,9472657543,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,3,999,27-07-2025,Credit Card,Delivered
+ORD00606,CUS0041,Neha Khan,neha.khan41@example.com,9214001154,Mumbai,Maharashtra,400001,Water Bottle,Home,3,499,08-10-2025,UPI,Delivered
+ORD00607,CUS0106,Kavya Verma,kavya.verma106@example.com,9672925941,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,5,1199,18-09-2025,Credit Card,Delivered
+ORD00608,CUS0023,Riya Joshi,riya.joshi23@example.com,9379481667,Ahmedabad,Gujarat,380001,Water Bottle,Home,2,499,18-04-2025,Debit Card,Returned
+ORD00609,CUS0011,Yash Patel,yash.patel11@example.com,9114030016,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,2,999,15-02-2025,Net Banking,Cancelled
+ORD00610,CUS0004,Alisha Verma,alisha.verma4@example.com,9556906817,Hyderabad,Telangana,500001,Notebook Pack,Stationery,1,299,15-08-2025,Net Banking,Returned
+ORD00611,CUS0137,Ishaan Singh,ishaan.singh137@example.com,9257720491,Mumbai,Maharashtra,400001,,Home,1,999,04-02-2025,Credit Card,Shipped
+ORD00612,CUS0270,Priya Singh,priya.singh270@example.com,9213573256,Nagpur,Maharashtra,440001,Face Serum,Beauty,4,699,23-12-2025,UPI,Processing
+ORD00613,CUS0334,Rohan Khan,rohan.khan334@example.com,9834546968,Nagpur,Maharashtra,440001,Running Shoes,Fashion,3,2499,26-11-2025,Cash on Delivery,Delivered
+ORD00614,CUS0067,Alisha Gupta,alisha.gupta67@example.com,9841974106,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,4,599,20-12-2025,Debit Card,Returned
+ORD00615,CUS0122,Neha Iyer,neha.iyer122@example.com,9896460556,Pune,Maharashtra,411001,Notebook Pack,Stationery,1,299,24-08-2025,Cash on Delivery,Returned
+ORD00616,CUS0303,Diya Mehta,,9115248614,Hyderabad,Telangana,500001,Wireless Mouse,Electronics,1,799,18-04-2025,Credit Card,Delivered
+ORD00617,CUS0303,Kavya Jain,kavya.jain392@example.com,9618138689,Pune,Maharashtra,411001,Cotton Kurta,Fashion,2,1199,27-08-2025,UPI,Processing
+ORD00618,CUS0016,Arjun Singh,arjun.singh16@example.com,9941884944,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,0,599,24-09-2025,Cash on Delivery,Cancelled
+ORD00619,CUS0397,Meera Khan,meera.khan397@example.com,9958979736,Ahmedabad,Gujarat,380001,Bluetooth Speaker,Electronics,5,1499,16-11-2025,UPI,Returned
+ORD00620,CUS0165,Sneha Verma,sneha.verma165@example.com,9430563900,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,3,799,10-03-2025,Credit Card,Shipped
+ORD00621,CUS0028,Meera Khan,meera.khan28@example.com,9894586465,Hyderabad,Telangana,500001,Bedsheet Set,Home,3,999,01-12-2025,Cash on Delivery,Returned
+ORD00622,CUS0319,Alisha Mehta,alisha.mehta319@example.com,9389717091,Jaipur,Rajasthan,302001,Bedsheet Set,Home,2,999,05-03-2025,Debit Card,Processing
+ORD00623,CUS0280,Aditi Sharma,aditi.sharma280@example.com,9861970438,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,5,799,02-06-2025,Debit Card,Delivered
+ORD00624,CUS0209,Aditi Patel,aditi.patel209@example.com,9409008271,Bengaluru,,560001,Bedsheet Set,Home,5,999,05-01-2025,Debit Card,Delivered
+ORD00625,CUS0119,Rahul Patel,rahul.patel119@example.com,9649424091,Jaipur,Rajasthan,302001,Water Bottle,Home,2,999999,04-11-2025,Debit Card,Cancelled
+ORD00626,CUS0095,Ananya Mehta,ananya.mehta95@example.com,9640001658,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,3,999,04-12-2025,Net Banking,Returned
+ORD00627,CUS0308,Priya Verma,priya.verma308@example.com,9367882630,Pune,Maharashtra,411001,Desk Organizer,Stationery,2,599,24-04-2025,UPI,Shipped
+ORD00628,CUS0218,Riya Patel,riya.patel218@example.com,9287488576,Kolkata,West Bengal,700001,Water Bottle,Home,3,499,28-01-2025,Net Banking,Cancelled
+ORD00629,CUS0061,Kavya Sharma,kavya.sharma61@example.com,9932206127,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,3,1499,19-10-2025,UPI,Cancelled
+ORD00630,CUS0030,Aarav Patel,aarav.patel30@example.com,9321375273,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,1,2499,08-03-2025,UPI,Shipped
+ORD00631,CUS0240,Alisha Mehta,alisha.mehta240@example.com,9727897746,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,3,299,25-04-2025,UPI,Delivered
+ORD00632,CUS0278,Neha Patel,neha.patel278@example.com,9264356143,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,4,1499,05-07-2025,Debit Card,Processing
+ORD00633,CUS0305,Meera Joshi,meera.joshi305@example.com,9911911491,Kolkata,West Bengal,700001,Water Bottle,Home,2,499,06-04-2025,Net Banking,Shipped
+ORD00634,CUS0369,Alisha Singh,alisha.singh369@example.com,9458229193,Jaipur,Rajasthan,302001,Running Shoes,Fashion,2,2499,24-12-2025,Net Banking,Returned
+ORD00635,CUS0006,Rahul Gupta,rahul.gupta6@example.com,9948698853,Kolkata,West Bengal,700001,Face Serum,Beauty,3,699,18-12-2025,Debit Card,Shipped
+ORD00636,CUS0371,Aditi Gupta,aditi.gupta371@example.com,9996640242,Hyderabad,Telangana,500001,Notebook Pack,Stationery,5,299,15-11-2025,Cash on Delivery,Processing
+ORD00637,CUS0183,Arjun Patel,arjun.patel183@example.com,9576127955,Bengaluru,Karnataka,560001,Bedsheet Set,Home,5,999,06-09-2025,UPI,Delivered
+ORD00638,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,Kolkata,West Bengal,700001,Desk Organizer,Stationery,1,599,05-08-2025,Debit Card,Processing
+ORD00639,CUS0118,Rahul Patel,rahul.patel118@example.com,9425009707,Nagpur,Maharashtra,440001,Face Serum,Beauty,1,699,2025-13-40,Debit Card,Returned
+ORD00640,CUS0161,Neha Gupta,neha.gupta161@example.com,9870512708,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,2,599,03-09-2025,Cash on Delivery,Shipped
+ORD00641,CUS0166,Yash Iyer,yash.iyer166@example.com,9304708650,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,3,299,20-06-2025,Debit Card,Shipped
+ORD00642,CUS0378,Aarav Khan,aarav.khan378@example.com,9280109738,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,1,999,02-11-2025,Cash on Delivery,Returned
+ORD00643,CUS0115,Ananya Jain,ananya.jain115@example.com,9428785051,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,5,599,11-04-2025,Debit Card,Processing
+ORD00644,CUS0130,Arjun Joshi,arjun.joshi130@example.com,9609214297,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,5,299,21-06-2025,Credit Card,Processing
+ORD00645,CUS0203,Varun Joshi,varun.joshi203@example.com,9245110160,Hyderabad,Telangana,500001,Water Bottle,Home,2,499,08-09-2025,Debit Card,Delivered
+ORD00646,CUS0397,Meera Khan,meera.khan397@example.com,9958979736,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,4,799,17-05-2025,Net Banking,Cancelled
+ORD00647,CUS0158,Yash Joshi,yash.joshi158@example.com,9494764958,Jaipur,Rajasthan,302001,Shampoo,Beauty,1,399,18-10-2025,Cash on Delivery,Returned
+ORD00648,CUS0151,Tanvi Singh,tanvi.singh151@example.com,9502164298,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,3,1499,05-05-2025,Cash on Delivery,Returned
+ORD00649,CUS0280,Aditi Sharma,aditi.sharma280@example.com,12345,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,999,17-10-2025,Debit Card,Processing
+ORD00650,CUS0318,Neha Verma,neha.verma318@example.com,9804837788,Hyderabad,Telangana,500001,Face Serum,Beauty,4,699,03-01-2025,Cash on Delivery,Returned
+ORD00651,CUS0142,Riya Singh,name.example.com,9143592384,Pune,Maharashtra,411001,Cotton Kurta,Fashion,4,1199,18-08-2025,UPI,Processing
+ORD00652,CUS0053,Aditi Verma,aditi.verma53@example.com,9925325315,Pune,Maharashtra,411001,Running Shoes,Fashion,1,2499,16-02-2025,Cash on Delivery,Returned
+ORD00653,CUS0252,Ishaan Khan,ishaan.khan252@example.com,9192313629,Chennai,Tamil Nadu,600001,Water Bottle,Home,3,499,26-03-2025,Cash on Delivery,Cancelled
+ORD00654,CUS0193,Aarav Gupta,aarav.gupta193@example.com,9205962514,Jaipur,Rajasthan,302001,Face Serum,Beauty,5,699,10-04-2025,Cash on Delivery,Returned
+ORD00655,CUS0045,Aarav Khan,aarav.khan45@example.com,9951689304,Nagpur,Maharashtra,440001,Face Serum,Beauty,2,699,24-02-2025,Debit Card,Returned
+ORD00656,CUS0042,Ananya Verma,ananya.verma42@example.com,9338328037,Jaipur,Rajasthan,302001,Face Serum,Beauty,1,699,18-01-2025,Net Banking,Shipped
+ORD00657,CUS0073,Tanvi Patel,tanvi.patel73@example.com,9757497301,Mumbai,Maharashtra,400001,Bedsheet Set,Home,4,999,26-01-2025,upi,Returned
+ORD00658,CUS0193,Aarav Gupta,aarav.gupta193@example.com,9205962514,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,1,1199,04-03-2025,Credit Card,Processing
+ORD00659,CUS0092,Aditi Jain,aditi.jain92@example.com,9721514729,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,3,1499,16-11-2025,Cash on Delivery,Processing
+ORD00660,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,3,299,12-03-2025,Debit Card,Delivered
+ORD00661,CUS0091,Ananya Patel,ananya.patel91@example.com,9185864951,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,4,2499,17-11-2025,Debit Card,Returned
+ORD00662,CUS0247,Rahul Patel,rahul.patel247@example.com,9403350618,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,4,299,18-01-2025,Credit Card,Processing
+ORD00663,CUS0230,Arjun Singh,arjun.singh230@example.com,9237986286,Mumbai,Maharashtra,400001,Bedsheet Set,Home,1,999,06-05-2025,Cash on Delivery,Delivered
+ORD00664,CUS0098,Diya Iyer,diya.iyer98@example.com,9806163621,Pune,Maharashtra,411001,Running Shoes,Fashion,5,2499,26-05-2025,UPI,Delivered
+ORD00665,CUS0333,Riya Khan,riya.khan333@example.com,9635726075,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,2,1499,16-02-2025,UPI,Cancelled
+ORD00666,CUS0100,Varun Patel,varun.patel100@example.com,9780069370,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,1,1499,18-03-2025,Debit Card,Cancelled
+ORD00667,CUS0114,Neha Sharma,neha.sharma114@example.com,9353330095,Hyderabad,Telangana,500001,Cotton Kurta,Fashion,2,1199,08-08-2025,UPI,Returned
+ORD00668,CUS0122,Neha Iyer,neha.iyer122@example.com,9896460556,Pune,Maharashtra,411001,Water Bottle,Home,4,499,14-12-2025,Cash on Delivery,Cancelled
+ORD00669,CUS0232,Ananya Joshi,ananya.joshi232@example.com,9780144086,Bengaluru,Karnataka,560001,Bedsheet Set,Home,3,999,24-04-2025,Cash on Delivery,Returned
+ORD00670,CUS0016,Arjun Singh,arjun.singh16@example.com,9941884944,Jaipur,Rajasthan,302001,Shampoo,Beauty,4,399,08-03-2025,Net Banking,Processing
+ORD00671,CUS0088,Kavya Sharma,kavya.sharma88@example.com,9155739708,mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,3,1499,01-04-2025,Credit Card,Shipped
+ORD00672,CUS0159,Aditi Patel,aditi.patel159@example.com,9518317614,Bengaluru,Karnataka,560001,Face Serum,Beauty,3,699,09-01-2025,Cash on Delivery,Returned
+ORD00673,CUS0344,Rohan Mehta,rohan.mehta344@example.com,9625957341,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,999,18-10-2025,UPI,Returned
+ORD00674,CUS0040,Diya Mehta,diya.mehta40@example.com,9424226162,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,2,1199,10-06-2025,Debit Card,Processing
+ORD00675,CUS0166,Yash Iyer,yash.iyer166@example.com,9304708650,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,1,299,24-10-2025,UPI,Cancelled
+ORD00676,CUS0219,Alisha Joshi,alisha.joshi219@example.com,9325006475,Jaipur,Rajasthan,302001,Bedsheet Set,Home,4,999,06-10-2025,Net Banking,Shipped
+ORD00677,CUS0086,Alisha Iyer,alisha.iyer86@example.com,9761030495,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,1,2499,02-09-2025,Debit Card,Returned
+ORD00678,CUS0239,Ananya Patel,ananya.patel239@example.com,9555687236,Pune,Maharashtra,411001,Water Bottle,Home,3,499,14-04-2025,Net Banking,Processing
+ORD00679,CUS0097,Yash Jain,yash.jain97@example.com,9706008055,Kolkata,West Bengal,700001,Face Serum,Beauty,3,699,01-06-2025,UPI,Shipped
+ORD00680,CUS0070,Ananya Verma,ananya.verma70@example.com,9487759571,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,4,599,03-03-2025,Cash on Delivery,Shipped
+ORD00681,CUS0051,Kavya Joshi,kavya.joshi51@example.com,9964485438,Jaipur,Rajasthan,302001,Running Shoes,Fashion,3,2499,20-07-2025,Credit Card,Cancelled
+ORD00682,CUS0048,Arjun Patel,arjun.patel48@example.com,9300850213,Delhi,Delhi,110001,Shampoo,Beauty,5,399,23-03-2025,Net Banking,Cancelled
+ORD00683,CUS0112,Rohan Jain,,9292192311,Mumbai,Maharashtra,400001,Running Shoes,Fashion,1,2499,06-02-2025,UPI,Shipped
+ORD00684,CUS0238,Ishaan Gupta,ishaan.gupta238@example.com,9411691594,Kolkata,West Bengal,700001,Notebook Pack,Stationery,1,299,17-06-2025,Debit Card,Shipped
+ORD00685,CUS0339,Rohan Jain,rohan.jain339@example.com,9268710254,Ahmedabad,Gujarat,380001,Face Serum,Beauty,3,699,01-01-2035,UPI,Returned
+ORD00686,CUS0127,Aarav Jain,aarav.jain127@example.com,9263762755,Pune,Maharashtra,411001,Face Serum,Beauty,3,699,06-10-2025,Debit Card,Cancelled
+ORD00687,CUS0047,Ananya Patel,ananya.patel47@example.com,9619178396,Pune,Maharashtra,411001,Water Bottle,Home,2,499,25-02-2025,Debit Card,Cancelled
+ORD00688,CUS0230,Arjun Singh,arjun.singh230@example.com,9237986286,Mumbai,Maharashtra,400001,Face Serum,Beauty,1,699,06-01-2025,Credit Card,Returned
+ORD00689,CUS0044,Neha Singh,neha.singh44@example.com,9492520504,Ahmedabad,Gujarat,380001,Shampoo,Beauty,4,399,24-07-2025,Debit Card,Shipped
+ORD00690,CUS0256,Alisha Patel,alisha.patel256@example.com,9217946901,Hyderabad,Telangana,500001,Running Shoes,Fashion,3,2499,08-02-2025,UPI,Cancelled
+ORD00691,CUS0235,Aarav Mehta,aarav.mehta235@example.com,9153690097,Kolkata,West Bengal,700001,Desk Organizer,Stationery,4,599,23-11-2025,Net Banking,Delivered
+ORD00692,CUS0334,Rohan Khan,rohan.khan334@example.com,9834546968,Nagpur,Maharashtra,440001,Water Bottle,Home,3,499,27-02-2025,Debit Card,Shipped
+ORD00693,CUS0350,Ananya Jain,ananya.jain350@example.com,9443359617,Kolkata,West Bengal,700001,Face Serum,Beauty,5,699,14-01-2025,Net Banking,Cancelled
+ORD00694,CUS0088,Kavya Sharma,kavya.sharma88@example.com,9155739708,Mumbai,Maharashtra,400001,,Fashion,5,2499,22-03-2025,Cash on Delivery,Cancelled
+ORD00695,CUS0064,Diya Mehta,diya.mehta64@example.com,9586433121,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,999,26-08-2025,Cash on Delivery,Delivered
+ORD00696,CUS0272,Arjun Mehta,arjun.mehta272@example.com,9864406655,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,75,1499,21-10-2025,UPI,Cancelled
+ORD00697,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,5,599,15-04-2025,Net Banking,Shipped
+ORD00698,CUS0072,Arjun Khan,arjun.khan72@example.com,9175592172,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,2,1199,19-10-2025,Net Banking,Shipped
+ORD00699,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Gujarat,440001,Wireless Mouse,Electronics,5,799,05-01-2025,Credit Card,Cancelled
+ORD00699,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Gujarat,440001,Wireless Mouse,Electronics,5,799,05-01-2025,Credit Card,Cancelled
+ORD00701,CUS0178,Arjun Gupta,arjun.gupta178@example.com,9118431081,Jaipur,Rajasthan,302001,Running Shoes,Fashion,1,2499,19-11-2025,Net Banking,deliverd
+ORD00702,CUS0371,Aditi Gupta,aditi.gupta371@example.com,9996640242,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,4,1499,18-09-2025,Net Banking,Processing
+ORD00703,CUS0073,Tanvi Patel,tanvi.patel73@example.com,9757497301,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,2,299,15-02-2025,Cash on Delivery,Processing
+ORD00704,CUS0264,Varun Singh,varun.singh264@example.com,9515442592,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,2,1499,18-10-2025,Debit Card,Delivered
+ORD00705,CUS0373,Rahul Singh,rahul.singh373@example.com,9611824488,Pune,Maharashtra,411001,Notebook Pack,Stationery,3,299,07-12-2025,Debit Card,Processing
+ORD00706,CUS0091,Ananya Patel,ananya.patel91@example.com,9185864951,Ahmedabad,Gujarat,380001,Face Serum,Beauty,4,699,12-08-2025,Debit Card,Shipped
+ORD00707,CUS0340,Alisha Mehta,alisha.mehta340@example.com,9831861364,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,1,1199,05-08-2025,UPI,Processing
+ORD00708,CUS0032,Yash Jain,yash.jain32@example.com,9151267748,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,4,599,09-04-2025,UPI,Returned
+ORD00709,CUS0026,Ananya Jain,ananya.jain26@example.com,9337434795,Kolkata,West Bengal,700001,Cotton Kurta,Fashion,4,1199,18-11-2025,Debit Card,Cancelled
+ORD00710,CUS0038,Arjun Patel,arjun.patel38@example.com,9745276179,Nagpur,Maharashtra,440001,Face Serum,Beauty,4,699,01-08-2025,Debit Card,Shipped
+ORD00711,CUS0072,Arjun Khan,arjun.khan72@example.com,9175592172,Nagpur,Maharashtra,440001,Running Shoes,Fashion,1,2499,09-05-2025,Credit Card,Shipped
+ORD00712,CUS0036,Yash Joshi,yash.joshi36@example.com,9391101159,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,2,1199,06-03-2025,Net Banking,Processing
+ORD00713,CUS0149,Tanvi Singh,tanvi.singh149@example.com,9745289197,Delhi,Delhi,110001,Notebook Pack,Stationery,3,299,28-04-2025,Debit Card,Processing
+ORD00714,CUS0328,Meera Jain,meera.jain328@example.com,9691677725,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,4,299,14-12-2025,Credit Card,Delivered
+ORD00715,CUS0009,Riya Jain,riya.jain9@example.com,9969706973,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,4,1199,05-03-2025,Debit Card,Cancelled
+ORD00716,CUS0221,Rohan Singh,rohan.singh221@example.com,9863974619,Hyderabad,Telangana,500001,Shampoo,Beauty,5,399,13-11-2025,Credit Card,Returned
+ORD00717,CUS0321,Yash Sharma,yash.sharma321@example.com,9776890765,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,4,799,16-07-2025,Cash on Delivery,Shipped
+ORD00718,CUS0260,Varun Gupta,varun.gupta260@example.com,9621495483,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,2,1499,23-01-2025,Net Banking,Delivered
+ORD00719,CUS0042,Ananya Verma,ananya.verma42@example.com,9338328037,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,5,799,07-07-2025,UPI,Delivered
+ORD00720,CUS0234,Ishaan Sharma,ishaan.sharma234@example.com,9267603926,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,2,299,04-11-2025,Debit Card,Processing
+ORD00721,CUS0239,Ananya Patel,ananya.patel239@example.com,9555687236,Pune,,411001,Bedsheet Set,Home,5,999,22-01-2025,Credit Card,Cancelled
+ORD00722,CUS0378,Aarav Khan,aarav.khan378@example.com,9280109738,Chennai,Tamil Nadu,600001,Wireless Mouse,Electronics,3,799,18-09-2025,Debit Card,Returned
+ORD00723,CUS0040,Diya Mehta,diya.mehta40@example.com,9424226162,Bengaluru,Karnataka,560001,Shampoo,Beauty,1,399,01-09-2025,Debit Card,Delivered
+ORD00724,CUS0365,Rahul Khan,rahul.khan365@example.com,9887351532,Delhi,Delhi,110001,Shampoo,Beauty,1,399,13-03-2025,UPI,Cancelled
+ORD00725,CUS0009,Riya Jain,riya.jain9@example.com,9969706973,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,1,299,27-01-2025,UPI,Processing
+ORD00726,CUS0338,Rohan Iyer,rohan.iyer338@example.com,9277752606,Nagpur,Maharashtra,440001,Running Shoes,Fashion,1,-499,07-08-2025,UPI,Cancelled
+ORD00727,CUS0276,Arjun Sharma,arjun.sharma276@example.com,9178081446,Nagpur,Maharashtra,440001,Bedsheet Set,Home,2,999,13-02-2025,Net Banking,Cancelled
+ORD00728,CUS0295,Rahul Verma,rahul.verma295@example.com,9317906906,Pune,Maharashtra,411001,Notebook Pack,Stationery,1,299,01-06-2025,Debit Card,Returned
+ORD00729,CUS0140,Aditi Khan,aditi.khan140@example.com,9221363522,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,2,799,11-07-2025,Credit Card,Cancelled
+ORD00730,CUS0298,Diya Jain,name.example.com,9990184007,Hyderabad,Telangana,12A45,Running Shoes,Fashion,1,2499,06-11-2025,Net Banking,Cancelled
+ORD00731,CUS0271,Sneha Iyer,sneha.iyer271@example.com,9461281981,Pune,Maharashtra,411001,Wireless Mouse,Electronics,0,799,20-03-2025,Net Banking,Returned
+ORD00732,CUS0209,Aditi Patel,aditi.patel209@example.com,9409008271,Bengaluru,Karnataka,560001,Running Shoes,Fashion,2,2499,18-06-2025,Cash on Delivery,Returned
+ORD00733,CUS0281,Kavya Iyer,kavya.iyer281@example.com,9582733051,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,4,1499,27-12-2025,Credit Card,Cancelled
+ORD00734,CUS0049,Alisha Patel,alisha.patel49@example.com,9821281794,Chennai,Tamil Nadu,600001,Water Bottle,Home,4,499,28-12-2025,Credit Card,Cancelled
+ORD00735,CUS0133,Rahul Patel,rahul.patel133@example.com,9234985883,Delhi,Delhi,110001,Wireless Mouse,Electronics,2,799,22-09-2025,Credit Card,Shipped
+ORD00736,CUS0152,Varun Jain,varun.jain152@example.com,9458111621,Bengaluru,Karnataka,560001,Running Shoes,Fashion,2,2499,15-11-2025,Cash on Delivery,Cancelled
+ORD00737,CUS0237,Meera Jain,meera.jain237@example.com,9811803682,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,3,799,17-09-2025,Net Banking,Processing
+ORD00738,CUS0214,Diya Gupta,diya.gupta214@example.com,12345,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,4,999,20-04-2025,Net Banking,Delivered
+ORD00739,CUS0191,Aarav Iyer,aarav.iyer191@example.com,9707572485,Kolkata,West Bengal,700001,Desk Organizer,Stationery,3,599,02-04-2025,UPI,Returned
+ORD00740,CUS0392,Kavya Jain,kavya.jain392@example.com,9618138689,Pune,Maharashtra,411001,Running Shoes,Fashion,4,2499,04-01-2025,UPI,Returned
+ORD00741,CUS0122,Neha Iyer,neha.iyer122@example.com,9896460556,Pune,Maharashtra,411001,Wireless Mouse,Electronics,5,799,09-10-2025,UPI,Cancelled
+ORD00742,CUS0318,Neha Verma,neha.verma318@example.com,9804837788,Hyderabad,Telangana,500001,Shampoo,Beauty,3,399,04-09-2025,Debit Card,Returned
+ORD00743,CUS0020,Sneha Patel,sneha.patel20@example.com,9261313825,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,1,799,15-03-2025,Credit Card,Delivered
+ORD00744,CUS0059,Aditi Khan,aditi.khan59@example.com,9722155773,Delhi,Delhi,110001,Notebook Pack,Stationery,2,299,28-01-2025,Debit Card,Shipped
+ORD00745,CUS0171,Priya Verma,priya.verma171@example.com,9579726330,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,1,599,23-10-2025,Cash on Delivery,Processing
+ORD00746,CUS0261,Rahul Singh,rahul.singh261@example.com,9418955058,Delhi,Delhi,110001,Notebook Pack,Stationery,4,299,21-04-2025,Credit Card,Processing
+ORD00747,CUS0039,Priya Mehta,priya.mehta39@example.com,9844166400,Kolkata,West Bengal,700001,Shampoo,Beauty,4,399,27-08-2025,UPI,Delivered
+ORD00748,CUS0234,Ishaan Sharma,ishaan.sharma234@example.com,9267603926,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,4,1199,18-02-2025,Net Banking,Cancelled
+ORD00749,CUS0086,Alisha Iyer,alisha.iyer86@example.com,9761030495,Chennai,Tamil Nadu,600001,Face Serum,Beauty,1,699,10-06-2025,Net Banking,Delivered
+ORD00750,CUS0212,Rahul Verma,,9255386733,Ahmedabad,Gujarat,380001,Face Serum,Beauty,2,699,03-02-2025,Credit Card,Processing
+ORD00751,CUS0196,Neha Iyer,neha.iyer196@example.com,9711064259,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,1,599,11-11-2025,UPI,Delivered
+ORD00752,CUS0146,Rahul Khan,rahul.khan146@example.com,9460242008,Jaipur,Rajasthan,302001,Bedsheet Set,Home,4,999,21-04-2025,Credit Card,Returned
+ORD00753,CUS0221,Rohan Singh,rohan.singh221@example.com,9863974619,Hyderabad,Telangana,500001,Face Serum,Beauty,2,699,18-01-2025,Cash on Delivery,Processing
+ORD00754,CUS0032,Yash Jain,yash.jain32@example.com,9151267748,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,1,1499,18-02-2025,Net Banking,Returned
+ORD00755,CUS0316,Varun Verma,varun.verma316@example.com,9106555736,Chennai,Tamil Nadu,600001,Water Bottle,Home,1,499,20-05-2025,UPI,Shipped
+ORD00756,CUS0055,Kavya Iyer,kavya.iyer55@example.com,9791989025,Mumbai,Maharashtra,400001,Water Bottle,Home,1,499,17-04-2025,Debit Card,Delivered
+ORD00757,CUS0293,Yash Verma,yash.verma293@example.com,9745325313,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,3,299,17-01-2025,UPI,Returned
+ORD00758,CUS0262,Rohan Iyer,rohan.iyer262@example.com,9225437330,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,4,599,23-09-2025,Debit Card,Cancelled
+ORD00759,CUS0008,Ananya Jain,ananya.jain8@example.com,9687760359,Chennai,Tamil Nadu,600001,Wireless Mouse,Electronics,2,799,26-12-2025,Debit Card,Cancelled
+ORD00760,CUS0091,Ananya Patel,ananya.patel91@example.com,9185864951,Ahmedabad,Gujarat,380001,Running Shoes,Electronics,3,2499,25-07-2025,upi,Shipped
+ORD00761,CUS0118,Rahul Patel,rahul.patel118@example.com,9425009707,Nagpur,Maharashtra,440001,Running Shoes,Fashion,4,2499,03-03-2025,Net Banking,Processing
+ORD00762,CUS0371,Aditi Gupta,aditi.gupta371@example.com,9996640242,hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,4,999999,16-07-2025,UPI,Delivered
+ORD00763,CUS0135,Rohan Singh,rohan.singh135@example.com,9307760404,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,5,299,25-03-2025,Cash on Delivery,Delivered
+ORD00764,CUS0009,Riya Jain,riya.jain9@example.com,9969706973,Nagpur,Maharashtra,440001,Water Bottle,Home,1,499,05-09-2025,Credit Card,Delivered
+ORD00765,CUS0256,Alisha Patel,alisha.patel256@example.com,9217946901,Hyderabad,Telangana,500001,Face Serum,Beauty,4,699,13-08-2025,UPI,Returned
+ORD00766,CUS0112,Rohan Jain,rohan.jain112@example.com,9292192311,Mumbai,Maharashtra,400001,Running Shoes,Fashion,5,2499,27-09-2025,Cash on Delivery,Cancelled
+ORD00767,CUS0336,Rohan Joshi,rohan.joshi336@example.com,9505367283,Hyderabad,Telangana,500001,Cotton Kurta,Fashion,4,1199,04-10-2025,Net Banking,Processing
+ORD00768,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,4,599,20-01-2025,Debit Card,Shipped
+ORD00769,CUS0080,Kavya Joshi,kavya.joshi80@example.com,9428817252,Pune,Maharashtra,411001,Bedsheet Set,Home,5,999,04-12-2025,Credit Card,Shipped
+ORD00770,CUS0276,Arjun Sharma,arjun.sharma276@example.com,9178081446,Nagpur,Maharashtra,440001,Shampoo,Beauty,4,399,06-09-2025,Net Banking,Returned
+ORD00771,CUS0383,Ishaan Mehta,ishaan.mehta383@example.com,9190551967,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,5,299,10-08-2025,Cash on Delivery,Delivered
+ORD00772,CUS0255,Arjun Singh,arjun.singh255@example.com,9805807263,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,3,2499,15-04-2025,Net Banking,Returned
+ORD00773,CUS0127,Aarav Jain,aarav.jain127@example.com,9263762755,Pune,Maharashtra,411001,Face Serum,Beauty,2,699,13-12-2025,UPI,Shipped
+ORD00774,CUS0085,Rohan Gupta,rohan.gupta85@example.com,9305271467,Hyderabad,Telangana,500001,Water Bottle,Home,3,499,01-03-2025,Debit Card,Shipped
+ORD00775,CUS0084,Yash Verma,yash.verma84@example.com,9578252923,Pune,Maharashtra,411001,Shampoo,Beauty,2,399,13-03-2025,Cash on Delivery,Returned
+ORD00776,CUS0181,Neha Singh,neha.singh181@example.com,9863173275,Ahmedabad,Gujarat,380001,Face Serum,Beauty,3,699,17-07-2025,Debit Card,Shipped
+ORD00777,CUS0075,Tanvi Patel,tanvi.patel75@example.com,9103688974,Chennai,Tamil Nadu,600001,,Stationery,3,599,08-03-2025,Net Banking,Shipped
+ORD00778,CUS0132,Aarav Joshi,aarav.joshi132@example.com,9167655740,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,2,1499,2025-13-40,Cash on Delivery,Processing
+ORD00779,CUS0116,Aditi Singh,aditi.singh116@example.com,9367520049,Chennai,Tamil Nadu,600001,Water Bottle,Home,5,499,16-12-2025,Cash on Delivery,Processing
+ORD00780,CUS0041,Neha Khan,neha.khan41@example.com,9214001154,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,5,1199,24-11-2025,UPI,Cancelled
+ORD00781,CUS0176,Neha Khan,neha.khan176@example.com,9490791488,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,2,1499,07-03-2025,Credit Card,Cancelled
+ORD00782,CUS0283,Ishaan Patel,ishaan.patel283@example.com,9749847623,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,5,1499,22-12-2025,Cash on Delivery,Returned
+ORD00783,CUS0280,Aditi Sharma,aditi.sharma280@example.com,9861970438,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,1,799,02-04-2025,UPI,Returned
+ORD00784,CUS0280,Tanvi Sharma,tanvi.sharma290@example.com,9336203211,Kolkata,West Bengal,700001,Wireless Mouse,Electronics,3,799,13-08-2025,Net Banking,Shipped
+ORD00785,CUS0110,Meera Iyer,meera.iyer110@example.com,9962053740,Jaipur,Rajasthan,302001,Shampoo,Beauty,2,399,17-04-2025,UPI,Delivered
+ORD00786,CUS0075,Tanvi Patel,tanvi.patel75@example.com,9103688974,Chennai,Tamil Nadu,600001,Shampoo,Beauty,4,399,09-06-2025,UPI,Processing
+ORD00787,CUS0178,Arjun Gupta,arjun.gupta178@example.com,9118431081,Jaipur,Rajasthan,302001,Running Shoes,Fashion,5,2499,13-02-2025,UPI,Shipped
+ORD00788,CUS0125,Neha Mehta,neha.mehta125@example.com,9541389659,Mumbai,Maharashtra,400001,Bedsheet Set,Home,2,999,27-11-2025,Net Banking,Delivered
+ORD00789,CUS0085,Rohan Gupta,rohan.gupta85@example.com,9305271467,Hyderabad,Telangana,500001,Desk Organizer,Stationery,1,599,26-03-2025,UPI,Shipped
+ORD00790,CUS0007,Ananya Iyer,ananya.iyer7@example.com,9609946547,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,4,1499,17-10-2025,Net Banking,Delivered
+ORD00791,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,Kolkata,West Bengal,700001,Wireless Mouse,Electronics,5,799,12-07-2025,Debit Card,Cancelled
+ORD00792,CUS0018,Yash Joshi,yash.joshi18@example.com,9926194821,Delhi,Delhi,110001,Desk Organizer,Stationery,4,599,27-03-2025,UPI,Delivered
+ORD00793,CUS0338,Rohan Iyer,rohan.iyer338@example.com,9277752606,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,4,1499,11-02-2025,Cash on Delivery,Cancelled
+ORD00794,CUS0269,Alisha Iyer,alisha.iyer269@example.com,9576858400,Delhi,Delhi,110001,Wireless Mouse,Electronics,4,799,03-03-2025,Debit Card,Shipped
+ORD00795,CUS0043,Diya Gupta,diya.gupta43@example.com,9272027067,Jaipur,Rajasthan,302001,Water Bottle,Home,1,499,08-10-2025,Cash on Delivery,Cancelled
+ORD00796,CUS0109,Yash Sharma,yash.sharma109@example.com,9106299777,Delhi,Delhi,110001,Shampoo,Beauty,4,399,06-07-2025,Cash on Delivery,Processing
+ORD00797,CUS0075,Tanvi Patel,tanvi.patel75@example.com,9103688974,Chennai,Tamil Nadu,600001,Face Serum,Beauty,5,699,11-01-2025,Cash on Delivery,Returned
+ORD00798,CUS0301,Aarav Verma,aarav.verma301@example.com,9225197114,Hyderabad,Telangana,500001,Bedsheet Set,Home,4,999,22-08-2025,Cash on Delivery,Shipped
+ORD00799,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,4,1199,09-08-2025,UPI,Shipped
+ORD00799,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,4,1199,09-08-2025,UPI,Shipped
+ORD00801,CUS0197,Priya Khan,priya.khan197@example.com,9240480602,Hyderabad,Telangana,500001,Desk Organizer,Stationery,3,599,10-07-2025,UPI,Cancelled
+ORD00802,CUS0321,Yash Sharma,yash.sharma321@example.com,9776890765,Bengaluru,Karnataka,560001,Face Serum,Beauty,4,699,13-12-2025,Cash on Delivery,Returned
+ORD00803,CUS0283,Ishaan Patel,ishaan.patel283@example.com,9749847623,Delhi,Delhi,110001,Face Serum,Beauty,3,699,26-10-2025,Cash on Delivery,Cancelled
+ORD00804,CUS0307,Varun Joshi,varun.joshi307@example.com,9425577934,Kolkata,West Bengal,700001,Desk Organizer,Stationery,5,599,08-12-2025,Cash on Delivery,Cancelled
+ORD00805,CUS0254,Riya Khan,riya.khan254@example.com,9748520143,Mumbai,Maharashtra,400001,Shampoo,Beauty,2,399,06-07-2025,UPI,Delivered
+ORD00806,CUS0027,Diya Singh,diya.singh27@example.com,9809064575,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,4,1499,02-02-2025,UPI,Processing
+ORD00807,CUS0216,Yash Singh,yash.singh216@example.com,9749771864,Pune,Maharashtra,411001,Bluetooth Speaker,Electronics,2,1499,25-05-2025,Debit Card,Processing
+ORD00808,CUS0072,Arjun Khan,arjun.khan72@example.com,9175592172,Nagpur,Maharashtra,440001,Bedsheet Set,Home,2,999,21-10-2025,Cash on Delivery,Returned
+ORD00809,CUS0172,Rohan Patel,name.example.com,9160192339,Mumbai,Maharashtra,400001,Shampoo,Beauty,4,399,04-05-2025,Cash on Delivery,Shipped
+ORD00810,CUS0208,Tanvi Khan,tanvi.khan208@example.com,9558828107,Jaipur,Rajasthan,302001,Running Shoes,Fashion,3,2499,04-07-2025,UPI,deliverd
+ORD00811,CUS0260,Varun Gupta,varun.gupta260@example.com,9621495483,Chennai,Tamil Nadu,600001,Water Bottle,Home,2,499,18-09-2025,Cash on Delivery,Cancelled
+ORD00812,CUS0136,Diya Khan,diya.khan136@example.com,9988649815,Mumbai,Maharashtra,400001,Running Shoes,Fashion,5,2499,11-10-2025,Cash on Delivery,Shipped
+ORD00813,CUS0193,Aarav Gupta,aarav.gupta193@example.com,9205962514,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,2,1499,27-12-2025,Credit Card,Processing
+ORD00814,CUS0258,Rahul Gupta,rahul.gupta258@example.com,9291219857,Delhi,Delhi,110001,Bedsheet Set,Home,5,999,09-04-2025,Net Banking,Returned
+ORD00815,CUS0069,Ananya Jain,ananya.jain69@example.com,9571220899,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,1,999,10-10-2025,Net Banking,Shipped
+ORD00816,CUS0020,Sneha Patel,sneha.patel20@example.com,9261313825,Mumbai,Maharashtra,400001,Notebook Pack,Stationery,3,299,27-10-2025,Credit Card,Cancelled
+ORD00817,CUS0182,Aarav Gupta,,9592639455,Nagpur,Maharashtra,440001,Water Bottle,Home,2,499,04-03-2025,Cash on Delivery,Delivered
+ORD00818,CUS0341,Neha Iyer,neha.iyer341@example.com,9487595805,Jaipur,,302001,Running Shoes,Fashion,2,2499,06-03-2025,Debit Card,Processing
+ORD00819,CUS0248,Sneha Khan,sneha.khan248@example.com,9782600735,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,4,1499,28-09-2025,Credit Card,Shipped
+ORD00820,CUS0227,Sneha Khan,sneha.khan227@example.com,9875602167,Jaipur,Rajasthan,302001,Running Shoes,Fashion,5,2499,02-08-2025,Credit Card,Processing
+ORD00821,CUS0325,Diya Iyer,diya.iyer325@example.com,9601659251,Nagpur,Maharashtra,440001,Bedsheet Set,Home,5,999,10-04-2025,Cash on Delivery,Shipped
+ORD00822,CUS0200,Aarav Mehta,aarav.mehta200@example.com,9258183288,Pune,Maharashtra,411001,Cotton Kurta,Fashion,5,1199,25-01-2025,UPI,Processing
+ORD00823,CUS0023,Riya Joshi,riya.joshi23@example.com,9379481667,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,75,2499,22-05-2025,Cash on Delivery,Cancelled
+ORD00824,CUS0063,Rahul Joshi,rahul.joshi63@example.com,9543128074,Kolkata,West Bengal,700001,Shampoo,Beauty,2,399,17-10-2025,Cash on Delivery,Shipped
+ORD00825,CUS0190,Kavya Mehta,kavya.mehta190@example.com,9243795515,Bengaluru,Karnataka,560001,Bedsheet Set,Home,4,999,16-07-2025,Debit Card,Processing
+ORD00826,CUS0347,Sneha Joshi,sneha.joshi347@example.com,9586535694,Mumbai,Maharashtra,400001,Face Serum,Beauty,5,699,02-03-2025,Net Banking,Returned
+ORD00827,CUS0368,Aditi Gupta,aditi.gupta368@example.com,12345,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,1,1199,27-09-2025,UPI,Processing
+ORD00828,CUS0268,Priya Iyer,priya.iyer268@example.com,9894009723,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,3,799,11-04-2025,Cash on Delivery,Returned
+ORD00829,CUS0366,Aarav Patel,aarav.patel366@example.com,9936451518,Jaipur,Rajasthan,302001,Water Bottle,Home,3,499,10-10-2025,Net Banking,Returned
+ORD00830,CUS0240,Alisha Mehta,alisha.mehta240@example.com,9727897746,Bengaluru,Karnataka,560001,Face Serum,Beauty,3,699,15-02-2025,Debit Card,Returned
+ORD00831,CUS0273,Alisha Verma,alisha.verma273@example.com,9790973556,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,4,599,07-02-2025,Credit Card,Shipped
+ORD00832,CUS0351,Diya Iyer,diya.iyer351@example.com,9611065773,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,2,799,05-04-2025,Cash on Delivery,Processing
+ORD00833,CUS0243,Ishaan Verma,ishaan.verma243@example.com,9778081299,Mumbai,Maharashtra,400001,Shampoo,Beauty,3,399,28-04-2025,UPI,Delivered
+ORD00834,CUS0176,Neha Khan,neha.khan176@example.com,9490791488,Mumbai,Maharashtra,400001,Face Serum,Beauty,3,699,01-01-2035,Credit Card,Delivered
+ORD00835,CUS0366,Aarav Patel,aarav.patel366@example.com,9936451518,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,3,799,20-07-2025,Credit Card,Processing
+ORD00836,CUS0168,Ishaan Jain,ishaan.jain168@example.com,9883153948,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,5,1499,03-04-2025,Net Banking,Processing
+ORD00837,CUS0368,Aditi Gupta,aditi.gupta368@example.com,9642631501,Mumbai,Maharashtra,400001,Shampoo,Beauty,2,399,24-08-2025,Net Banking,Shipped
+ORD00838,CUS0112,Rohan Jain,rohan.jain112@example.com,9292192311,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,4,599,28-10-2025,Debit Card,Returned
+ORD00839,CUS0172,Rohan Patel,rohan.patel172@example.com,9160192339,Mumbai,Maharashtra,400001,Face Serum,Beauty,1,699,07-12-2025,Net Banking,Delivered
+ORD00840,CUS0237,Meera Jain,meera.jain237@example.com,9811803682,Nagpur,Maharashtra,440001,Bedsheet Set,Home,5,999,26-01-2025,Credit Card,Shipped
+ORD00841,CUS0329,Rohan Iyer,rohan.iyer329@example.com,9745487227,Delhi,Delhi,110001,Desk Organizer,Stationery,2,599,24-09-2025,Net Banking,Processing
+ORD00842,CUS0335,Meera Khan,meera.khan335@example.com,9621493384,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,4,999,13-10-2025,Net Banking,Delivered
+ORD00843,CUS0198,Ananya Singh,ananya.singh198@example.com,9744878809,Bengaluru,Karnataka,560001,Desk Organizer,Stationery,5,599,08-05-2025,UPI,Cancelled
+ORD00844,CUS0146,Rahul Khan,rahul.khan146@example.com,9460242008,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,0,599,23-06-2025,Credit Card,Processing
+ORD00845,CUS0393,Ishaan Khan,ishaan.khan393@example.com,9107941862,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,3,599,17-01-2025,Debit Card,Delivered
+ORD00846,CUS0199,Riya Jain,riya.jain199@example.com,9956664281,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,4,1499,24-09-2025,Net Banking,Returned
+ORD00847,CUS0147,Sneha Joshi,sneha.joshi147@example.com,9595162610,Bengaluru,Karnataka,560001,Bedsheet Set,Home,3,999,19-10-2025,UPI,Cancelled
+ORD00848,CUS0123,Varun Iyer,varun.iyer123@example.com,9754098361,Pune,Maharashtra,411001,Wireless Mouse,Electronics,5,799,27-08-2025,Debit Card,Delivered
+ORD00849,CUS0067,Alisha Gupta,alisha.gupta67@example.com,9841974106,Mumbai,Maharashtra,400001,Shampoo,Beauty,2,399,23-08-2025,Debit Card,Cancelled
+ORD00850,CUS0050,Tanvi Singh,tanvi.singh50@example.com,9227712752,Delhi,Gujarat,110001,Shampoo,Beauty,5,399,09-06-2025,Credit Card,Processing
+ORD00851,CUS0252,Ishaan Khan,ishaan.khan252@example.com,9192313629,Chennai,Tamil Nadu,600001,Bluetooth Speaker,Electronics,1,1499,27-02-2025,Credit Card,Cancelled
+ORD00852,CUS0146,Rahul Khan,rahul.khan146@example.com,9460242008,Jaipur,Rajasthan,302001,Running Shoes,Fashion,4,2499,08-10-2025,UPI,Returned
+ORD00853,CUS0007,Ananya Iyer,ananya.iyer7@example.com,9609946547,nagpur,Maharashtra,440001,Shampoo,Beauty,3,399,11-02-2025,Debit Card,Delivered
+ORD00854,CUS0352,Ananya Sharma,ananya.sharma352@example.com,9720891749,Chennai,Tamil Nadu,600001,Water Bottle,Home,5,499,07-06-2025,Credit Card,Returned
+ORD00855,CUS0021,Riya Sharma,riya.sharma21@example.com,9333545973,Mumbai,Maharashtra,400001,Bedsheet Set,Home,1,999,19-12-2025,UPI,Processing
+ORD00856,CUS0244,Rohan Singh,rohan.singh244@example.com,9846051564,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,2,599,22-12-2025,Cash on Delivery,Delivered
+ORD00857,CUS0220,Meera Jain,meera.jain220@example.com,9817845622,Chennai,Tamil Nadu,600001,Desk Organizer,Stationery,4,-499,23-04-2025,Net Banking,Shipped
+ORD00858,CUS0144,Alisha Khan,alisha.khan144@example.com,9657381639,Kolkata,West Bengal,700001,Desk Organizer,Stationery,2,599,26-12-2025,Credit Card,Processing
+ORD00859,CUS0389,Ananya Singh,ananya.singh389@example.com,9619843180,Hyderabad,Telangana,500001,Bluetooth Speaker,Electronics,3,1499,19-06-2025,Credit Card,Delivered
+ORD00860,CUS0179,Aarav Verma,aarav.verma179@example.com,9422900338,Bengaluru,Karnataka,560001,,Stationery,5,299,23-04-2025,UPI,Delivered
+ORD00861,CUS0014,Ananya Verma,ananya.verma14@example.com,9361233583,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,2,999,13-06-2025,UPI,Cancelled
+ORD00862,CUS0232,Ananya Joshi,ananya.joshi232@example.com,9780144086,Bengaluru,Karnataka,560001,Shampoo,Beauty,3,399,03-07-2025,Cash on Delivery,Processing
+ORD00863,CUS0173,Diya Patel,diya.patel173@example.com,9115921236,Ahmedabad,Gujarat,380001,Cotton Kurta,Fashion,3,1199,08-12-2025,upi,Returned
+ORD00864,CUS0364,Kavya Jain,kavya.jain364@example.com,9198354755,Kolkata,West Bengal,700001,Running Shoes,Fashion,1,2499,12-04-2025,Debit Card,Cancelled
+ORD00865,CUS0028,Meera Khan,meera.khan28@example.com,9894586465,Hyderabad,Telangana,500001,Water Bottle,Home,5,499,01-03-2025,Debit Card,Cancelled
+ORD00866,CUS0250,Neha Verma,neha.verma250@example.com,9451505362,Chennai,Tamil Nadu,600001,Running Shoes,Fashion,3,2499,24-11-2025,UPI,Processing
+ORD00867,CUS0213,Riya Gupta,riya.gupta213@example.com,9584849163,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,4,599,22-09-2025,Net Banking,Processing
+ORD00868,CUS0386,Arjun Gupta,arjun.gupta386@example.com,9612409988,Mumbai,Maharashtra,400001,Water Bottle,Home,4,499,16-12-2025,Net Banking,Processing
+ORD00869,CUS0394,Meera Verma,meera.verma394@example.com,9674746115,Kolkata,West Bengal,700001,Wireless Mouse,Electronics,3,799,14-12-2025,Debit Card,Delivered
+ORD00870,CUS0390,Rohan Gupta,rohan.gupta390@example.com,9646802174,Mumbai,Maharashtra,400001,Bedsheet Set,Home,2,999,23-10-2025,Credit Card,Shipped
+ORD00871,CUS0315,Rahul Jain,rahul.jain315@example.com,9977257668,Mumbai,Maharashtra,400001,Running Shoes,Fashion,1,2499,27-07-2025,Net Banking,Returned
+ORD00872,CUS0010,Alisha Gupta,alisha.gupta10@example.com,9504292483,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,5,999,02-09-2025,Net Banking,Processing
+ORD00873,CUS0370,Ananya Khan,ananya.khan370@example.com,9963135894,Ahmedabad,Gujarat,380001,Bedsheet Set,Home,4,999,19-12-2025,Debit Card,Cancelled
+ORD00874,CUS0343,Tanvi Khan,tanvi.khan343@example.com,9601016736,Delhi,Delhi,110001,Running Shoes,Fashion,4,2499,19-01-2025,Net Banking,Returned
+ORD00875,CUS0162,Aditi Verma,aditi.verma162@example.com,9817839008,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,5,299,08-03-2025,Cash on Delivery,Cancelled
+ORD00876,CUS0027,Diya Singh,diya.singh27@example.com,9809064575,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,1,1199,03-04-2025,Cash on Delivery,Shipped
+ORD00877,CUS0087,Rohan Verma,rohan.verma87@example.com,9814001083,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,5,299,21-02-2025,Debit Card,Cancelled
+ORD00878,CUS0052,Aarav Khan,aarav.khan52@example.com,9648319598,Jaipur,Rajasthan,302001,Bluetooth Speaker,Electronics,1,1499,11-08-2025,Debit Card,Shipped
+ORD00879,CUS0304,Alisha Joshi,alisha.joshi304@example.com,9834761084,Nagpur,Maharashtra,440001,Bedsheet Set,Home,4,999,21-06-2025,UPI,Delivered
+ORD00880,CUS0017,Aditi Mehta,aditi.mehta17@example.com,9561147082,Kolkata,West Bengal,700001,Cotton Kurta,Fashion,4,1199,10-08-2025,UPI,Processing
+ORD00881,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Bedsheet Set,Home,3,999,12-01-2025,Net Banking,Returned
+ORD00882,CUS0199,Riya Jain,riya.jain199@example.com,9956664281,Kolkata,West Bengal,700001,Water Bottle,Home,5,499,06-12-2025,Credit Card,Delivered
+ORD00883,CUS0226,Aditi Gupta,aditi.gupta226@example.com,9117435539,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,1,299,08-10-2025,Net Banking,Shipped
+ORD00884,CUS0196,Neha Iyer,,9711064259,Mumbai,Maharashtra,400001,Running Shoes,Fashion,4,2499,25-03-2025,Debit Card,Delivered
+ORD00885,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Maharashtra,440001,Face Serum,Beauty,5,699,10-11-2025,Credit Card,Processing
+ORD00886,CUS0051,Kavya Joshi,kavya.joshi51@example.com,9964485438,Jaipur,Rajasthan,302001,Water Bottle,Home,3,499,17-09-2025,Debit Card,Processing
+ORD00887,CUS0164,Kavya Gupta,kavya.gupta164@example.com,9339185286,Hyderabad,Telangana,12A45,Shampoo,Beauty,3,399,17-02-2025,Debit Card,Delivered
+ORD00888,CUS0212,Rahul Verma,name.example.com,9255386733,Ahmedabad,Gujarat,380001,Shampoo,Beauty,5,399,04-06-2025,Debit Card,Returned
+ORD00889,CUS0131,Varun Iyer,varun.iyer131@example.com,9398297950,Jaipur,Rajasthan,302001,Face Serum,Beauty,2,699,24-09-2025,Debit Card,Returned
+ORD00890,CUS0378,Aarav Khan,aarav.khan378@example.com,9280109738,Chennai,Tamil Nadu,600001,Water Bottle,Home,5,499,28-12-2025,UPI,Cancelled
+ORD00891,CUS0292,Aarav Singh,aarav.singh292@example.com,9792860235,Hyderabad,Telangana,500001,Running Shoes,Fashion,3,2499,19-09-2025,UPI,Delivered
+ORD00892,CUS0265,Rohan Verma,rohan.verma265@example.com,9420465454,Pune,Maharashtra,411001,Running Shoes,Fashion,1,2499,25-10-2025,Credit Card,Returned
+ORD00893,CUS0159,Aditi Patel,aditi.patel159@example.com,9518317614,Bengaluru,Karnataka,560001,Shampoo,Beauty,5,399,07-03-2025,UPI,Shipped
+ORD00894,CUS0065,Sneha Singh,sneha.singh65@example.com,9819140707,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,1,599,03-10-2025,UPI,Cancelled
+ORD00895,CUS0148,Rohan Iyer,rohan.iyer148@example.com,9332527226,Nagpur,Maharashtra,440001,Shampoo,Beauty,3,399,02-04-2025,Cash on Delivery,Cancelled
+ORD00896,CUS0013,Priya Mehta,priya.mehta13@example.com,9960247563,Bengaluru,Karnataka,560001,Water Bottle,Home,4,499,28-05-2025,Net Banking,Returned
+ORD00897,CUS0318,Neha Verma,neha.verma318@example.com,9804837788,Hyderabad,Telangana,500001,Desk Organizer,Stationery,2,599,18-02-2025,Debit Card,Returned
+ORD00898,CUS0332,Aditi Khan,aditi.khan332@example.com,9361726256,Delhi,Delhi,110001,Face Serum,Beauty,5,699,18-05-2025,Net Banking,Processing
+ORD00899,CUS0111,Riya Patel,riya.patel111@example.com,9638902127,Ahmedabad,Gujarat,380001,Shampoo,Beauty,3,999999,06-12-2025,Cash on Delivery,Delivered
+ORD00899,CUS0111,Riya Patel,riya.patel111@example.com,9638902127,Ahmedabad,Gujarat,380001,Shampoo,Beauty,3,999999,06-12-2025,Cash on Delivery,Delivered
+ORD00901,CUS0311,Meera Khan,meera.khan311@example.com,9862342080,Nagpur,Maharashtra,440001,Notebook Pack,Stationery,2,299,08-01-2025,UPI,Cancelled
+ORD00902,CUS0191,Aarav Iyer,aarav.iyer191@example.com,9707572485,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,5,1499,20-03-2025,Cash on Delivery,Delivered
+ORD00903,CUS0015,Meera Jain,meera.jain15@example.com,9442811861,Delhi,Delhi,110001,Bluetooth Speaker,Electronics,4,1499,04-07-2025,Cash on Delivery,Delivered
+ORD00904,CUS0356,Diya Gupta,diya.gupta356@example.com,9449919266,Jaipur,Rajasthan,302001,Water Bottle,Home,4,499,27-07-2025,Debit Card,Shipped
+ORD00905,CUS0077,Rahul Verma,rahul.verma77@example.com,9974071292,Kolkata,West Bengal,700001,Running Shoes,Fashion,4,2499,14-07-2025,Credit Card,Returned
+ORD00906,CUS0042,Ananya Verma,ananya.verma42@example.com,9338328037,Jaipur,Rajasthan,302001,Face Serum,Beauty,2,699,13-09-2025,Cash on Delivery,Shipped
+ORD00907,CUS0090,Priya Verma,priya.verma90@example.com,9561771163,Ahmedabad,Gujarat,380001,Face Serum,Beauty,5,699,26-06-2025,Net Banking,Cancelled
+ORD00908,CUS0067,Alisha Gupta,alisha.gupta67@example.com,9841974106,Mumbai,Maharashtra,400001,Bluetooth Speaker,Electronics,4,1499,19-12-2025,Net Banking,Shipped
+ORD00909,CUS0044,Neha Singh,neha.singh44@example.com,9492520504,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,3,299,11-02-2025,Net Banking,Delivered
+ORD00910,CUS0043,Diya Gupta,diya.gupta43@example.com,9272027067,Jaipur,Rajasthan,302001,Notebook Pack,Stationery,5,299,19-04-2025,UPI,Returned
+ORD00911,CUS0335,Meera Khan,meera.khan335@example.com,9621493384,Chennai,Tamil Nadu,600001,Cotton Kurta,Fashion,1,1199,19-08-2025,Credit Card,Delivered
+ORD00912,CUS0149,Tanvi Singh,tanvi.singh149@example.com,9745289197,Delhi,Delhi,110001,Shampoo,Beauty,4,399,05-10-2025,UPI,Returned
+ORD00913,CUS0191,Aarav Iyer,aarav.iyer191@example.com,9707572485,Kolkata,West Bengal,700001,Notebook Pack,Stationery,1,299,28-03-2025,UPI,Shipped
+ORD00914,CUS0370,Ananya Khan,ananya.khan370@example.com,9963135894,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,3,299,28-12-2025,Cash on Delivery,Delivered
+ORD00915,CUS0109,Yash Sharma,yash.sharma109@example.com,9106299777,Delhi,,110001,Face Serum,Beauty,1,699,24-09-2025,Cash on Delivery,Cancelled
+ORD00916,CUS0023,Riya Joshi,riya.joshi23@example.com,12345,Ahmedabad,Gujarat,380001,Water Bottle,Home,2,499,01-11-2025,Net Banking,Shipped
+ORD00917,CUS0363,Meera Jain,meera.jain363@example.com,9898095903,Kolkata,West Bengal,700001,Desk Organizer,Stationery,2,599,2025-13-40,Cash on Delivery,Delivered
+ORD00918,CUS0170,Varun Iyer,varun.iyer170@example.com,9105601237,Mumbai,Maharashtra,400001,Shampoo,Beauty,2,399,28-09-2025,Cash on Delivery,Cancelled
+ORD00919,CUS0226,Aditi Gupta,aditi.gupta226@example.com,9117435539,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,3,299,27-09-2025,Cash on Delivery,deliverd
+ORD00920,CUS0048,Arjun Patel,arjun.patel48@example.com,9300850213,Delhi,Delhi,110001,Cotton Kurta,Fashion,1,1199,26-05-2025,Debit Card,Cancelled
+ORD00921,CUS0381,Ananya Patel,ananya.patel381@example.com,9918858650,Jaipur,Rajasthan,302001,Cotton Kurta,Fashion,5,1199,06-09-2025,Cash on Delivery,Processing
+ORD00922,CUS0151,Tanvi Singh,tanvi.singh151@example.com,9502164298,Mumbai,Maharashtra,400001,Wireless Mouse,Electronics,1,799,18-11-2025,Cash on Delivery,Delivered
+ORD00923,CUS0369,Alisha Singh,alisha.singh369@example.com,9458229193,Jaipur,Rajasthan,302001,Desk Organizer,Electronics,5,599,24-09-2025,UPI,Cancelled
+ORD00924,CUS0078,Sneha Mehta,sneha.mehta78@example.com,9132085225,Delhi,Delhi,110001,Notebook Pack,Stationery,5,299,11-01-2025,Credit Card,Cancelled
+ORD00925,CUS0198,Ananya Singh,ananya.singh198@example.com,9744878809,Bengaluru,Karnataka,560001,Running Shoes,Fashion,1,2499,22-03-2025,Credit Card,Cancelled
+ORD00926,CUS0204,Meera Sharma,meera.sharma204@example.com,9490972145,Nagpur,Maharashtra,440001,Water Bottle,Home,1,499,24-10-2025,UPI,Processing
+ORD00927,CUS0298,Diya Jain,diya.jain298@example.com,9990184007,Hyderabad,Telangana,500001,Notebook Pack,Stationery,3,299,17-11-2025,Net Banking,Delivered
+ORD00928,CUS0361,Varun Gupta,varun.gupta361@example.com,9782582312,Jaipur,Rajasthan,302001,Water Bottle,Home,5,499,05-11-2025,Debit Card,Returned
+ORD00929,CUS0037,Rohan Joshi,rohan.joshi37@example.com,9245221434,Jaipur,Rajasthan,302001,Wireless Mouse,Electronics,4,799,04-01-2025,UPI,Returned
+ORD00930,CUS0394,Meera Verma,meera.verma394@example.com,9674746115,Kolkata,West Bengal,700001,Desk Organizer,Stationery,3,599,10-06-2025,Net Banking,Cancelled
+ORD00931,CUS0253,Rohan Singh,rohan.singh253@example.com,9229477182,Mumbai,Maharashtra,400001,Cotton Kurta,Fashion,4,1199,07-11-2025,Cash on Delivery,Processing
+ORD00932,CUS0348,Meera Verma,meera.verma348@example.com,9379142335,Bengaluru,Karnataka,560001,Cotton Kurta,Fashion,1,1199,05-09-2025,UPI,Shipped
+ORD00933,CUS0155,Priya Mehta,priya.mehta155@example.com,9380762251,Pune,Maharashtra,411001,Wireless Mouse,Electronics,2,799,06-02-2025,Cash on Delivery,Cancelled
+ORD00934,CUS0129,Arjun Gupta,arjun.gupta129@example.com,9280163305,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,2,299,06-03-2025,Debit Card,Cancelled
+ORD00935,CUS0045,Aarav Khan,aarav.khan45@example.com,9951689304,Nagpur,Maharashtra,440001,Water Bottle,Home,1,499,22-10-2025,Credit Card,Returned
+ORD00936,CUS0273,Alisha Verma,alisha.verma273@example.com,9790973556,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,4,1499,25-04-2025,Net Banking,Shipped
+ORD00937,CUS0386,Arjun Gupta,arjun.gupta386@example.com,9612409988,Mumbai,Maharashtra,400001,Water Bottle,Home,1,499,24-04-2025,Debit Card,Returned
+ORD00938,CUS0021,Riya Sharma,riya.sharma21@example.com,9333545973,Mumbai,Maharashtra,400001,Bedsheet Set,Home,1,999,11-12-2025,Cash on Delivery,Returned
+ORD00939,CUS0026,Ananya Jain,ananya.jain26@example.com,9337434795,Kolkata,West Bengal,700001,Notebook Pack,Stationery,3,299,05-02-2025,UPI,Cancelled
+ORD00940,CUS0087,Rohan Verma,rohan.verma87@example.com,9814001083,Ahmedabad,Gujarat,380001,Running Shoes,Fashion,4,2499,07-09-2025,Cash on Delivery,Cancelled
+ORD00941,CUS0090,Priya Verma,priya.verma90@example.com,9561771163,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,4,599,01-02-2025,Cash on Delivery,Shipped
+ORD00942,CUS0280,Aditi Sharma,aditi.sharma280@example.com,9861970438,Ahmedabad,Gujarat,380001,Desk Organizer,Stationery,2,599,06-11-2025,Credit Card,Shipped
+ORD00943,CUS0043,Diya Gupta,diya.gupta43@example.com,9272027067,Jaipur,Rajasthan,302001,,Home,3,999,23-08-2025,Credit Card,Processing
+ORD00944,CUS0400,Aarav Joshi,aarav.joshi400@example.com,9212959990,ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,2,799,18-03-2025,Credit Card,Returned
+ORD00945,CUS0075,Tanvi Patel,tanvi.patel75@example.com,9103688974,Chennai,Tamil Nadu,600001,Notebook Pack,Stationery,1,299,20-10-2025,Net Banking,Cancelled
+ORD00946,CUS0323,Meera Mehta,meera.mehta323@example.com,9418038526,Delhi,Delhi,110001,Cotton Kurta,Fashion,4,1199,06-05-2025,Net Banking,Processing
+ORD00947,CUS0148,Rohan Iyer,rohan.iyer148@example.com,9332527226,Nagpur,Maharashtra,440001,Shampoo,Beauty,5,399,17-12-2025,Net Banking,Cancelled
+ORD00948,CUS0206,Meera Mehta,meera.mehta206@example.com,9227005061,Kolkata,West Bengal,700001,Desk Organizer,Stationery,3,599,22-07-2025,UPI,Cancelled
+ORD00949,CUS0107,Tanvi Verma,tanvi.verma107@example.com,9262921986,Pune,Maharashtra,411001,Water Bottle,Home,4,499,11-11-2025,UPI,Delivered
+ORD00950,CUS0062,Ishaan Verma,ishaan.verma62@example.com,9364125312,Nagpur,Maharashtra,440001,Cotton Kurta,Fashion,75,1199,23-08-2025,Debit Card,Cancelled
+ORD00951,CUS0062,Arjun Patel,,9576127955,Bengaluru,Karnataka,560001,Bedsheet Set,Home,2,999,23-10-2025,Debit Card,Cancelled
+ORD00952,CUS0266,Ananya Khan,ananya.khan266@example.com,9963118667,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,3,299,01-11-2025,UPI,Shipped
+ORD00953,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,5,799,02-07-2025,Cash on Delivery,Delivered
+ORD00954,CUS0143,Alisha Mehta,alisha.mehta143@example.com,9890071823,Bengaluru,Karnataka,560001,Notebook Pack,Stationery,2,299,09-05-2025,Credit Card,Processing
+ORD00955,CUS0216,Yash Singh,yash.singh216@example.com,9749771864,Pune,Maharashtra,411001,Desk Organizer,Stationery,2,599,19-10-2025,Debit Card,Returned
+ORD00956,CUS0305,Meera Joshi,meera.joshi305@example.com,9911911491,Kolkata,West Bengal,700001,Desk Organizer,Stationery,4,599,16-02-2025,UPI,Returned
+ORD00957,CUS0184,Rahul Sharma,rahul.sharma184@example.com,9897077577,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,0,599,13-02-2025,UPI,Cancelled
+ORD00958,CUS0197,Priya Khan,priya.khan197@example.com,9240480602,Hyderabad,Telangana,500001,Face Serum,Beauty,1,699,15-06-2025,Credit Card,Cancelled
+ORD00959,CUS0327,Priya Patel,priya.patel327@example.com,9310715930,Delhi,Delhi,110001,Cotton Kurta,Fashion,4,1199,06-05-2025,UPI,Shipped
+ORD00960,CUS0305,Meera Joshi,meera.joshi305@example.com,9911911491,Kolkata,West Bengal,700001,Wireless Mouse,Electronics,3,799,14-08-2025,Cash on Delivery,Processing
+ORD00961,CUS0262,Rohan Iyer,rohan.iyer262@example.com,9225437330,Chennai,Tamil Nadu,600001,Water Bottle,Home,2,499,02-10-2025,UPI,Returned
+ORD00962,CUS0187,Priya Sharma,priya.sharma187@example.com,9619762873,Ahmedabad,Gujarat,380001,Wireless Mouse,Electronics,4,799,04-02-2025,Net Banking,Delivered
+ORD00963,CUS0339,Rohan Jain,rohan.jain339@example.com,9268710254,Ahmedabad,Gujarat,380001,Notebook Pack,Stationery,3,299,05-09-2025,Cash on Delivery,Processing
+ORD00964,CUS0246,Arjun Singh,arjun.singh246@example.com,9389205972,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,5,599,25-06-2025,UPI,Cancelled
+ORD00965,CUS0018,Yash Joshi,yash.joshi18@example.com,9926194821,Delhi,Delhi,110001,Bedsheet Set,Home,5,999,09-04-2025,Debit Card,Delivered
+ORD00966,CUS0096,Diya Gupta,diya.gupta96@example.com,9373803388,Bengaluru,Karnataka,560001,Bluetooth Speaker,Electronics,1,1499,03-07-2025,upi,Cancelled
+ORD00967,CUS0188,Arjun Sharma,name.example.com,9509937978,Hyderabad,Telangana,500001,Water Bottle,Home,1,499,22-12-2025,Cash on Delivery,Cancelled
+ORD00968,CUS0389,Ananya Singh,ananya.singh389@example.com,9619843180,Hyderabad,Telangana,500001,Notebook Pack,Stationery,2,299,23-02-2025,Debit Card,Cancelled
+ORD00969,CUS0189,Alisha Patel,alisha.patel189@example.com,9963396677,Pune,Maharashtra,411001,Notebook Pack,Stationery,5,299,03-08-2025,Cash on Delivery,Processing
+ORD00970,CUS0055,Kavya Iyer,kavya.iyer55@example.com,9791989025,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,5,599,05-06-2025,Credit Card,Shipped
+ORD00971,CUS0124,Yash Gupta,yash.gupta124@example.com,9328178781,Jaipur,Rajasthan,302001,Desk Organizer,Stationery,2,599,13-03-2025,Net Banking,Returned
+ORD00972,CUS0238,Ishaan Gupta,ishaan.gupta238@example.com,9411691594,Kolkata,West Bengal,700001,Running Shoes,Fashion,2,2499,28-01-2025,Cash on Delivery,Processing
+ORD00973,CUS0306,Yash Joshi,yash.joshi306@example.com,9592083980,Pune,Maharashtra,411001,Face Serum,Beauty,5,699,17-08-2025,Cash on Delivery,Delivered
+ORD00974,CUS0350,Ananya Jain,ananya.jain350@example.com,9443359617,Kolkata,West Bengal,700001,Bluetooth Speaker,Electronics,4,1499,08-02-2025,Debit Card,Delivered
+ORD00975,CUS0034,Alisha Singh,alisha.singh34@example.com,9251159376,Nagpur,Maharashtra,440001,Water Bottle,Home,4,499,26-08-2025,Debit Card,Shipped
+ORD00976,CUS0080,Kavya Joshi,kavya.joshi80@example.com,9428817252,Pune,Maharashtra,411001,Running Shoes,Fashion,1,2499,01-03-2025,Credit Card,Cancelled
+ORD00977,CUS0263,Aditi Khan,aditi.khan263@example.com,9113899456,Delhi,Delhi,110001,Water Bottle,Home,5,499,28-07-2025,Net Banking,Delivered
+ORD00978,CUS0002,Priya Sharma,priya.sharma2@example.com,9216393307,Hyderabad,Telangana,500001,Notebook Pack,Stationery,1,299,28-06-2025,Credit Card,Shipped
+ORD00979,CUS0095,Ananya Mehta,ananya.mehta95@example.com,9640001658,Ahmedabad,Gujarat,380001,Face Serum,Beauty,2,699,18-04-2025,Cash on Delivery,Returned
+ORD00980,CUS0252,Ishaan Khan,ishaan.khan252@example.com,9192313629,Chennai,Tamil Nadu,600001,Bedsheet Set,Home,4,999,02-03-2025,UPI,Cancelled
+ORD00981,CUS0238,Ishaan Gupta,ishaan.gupta238@example.com,9411691594,Kolkata,West Bengal,700001,Water Bottle,Home,1,499,27-08-2025,Net Banking,Shipped
+ORD00982,CUS0360,Diya Mehta,diya.mehta360@example.com,9865426853,Ahmedabad,Gujarat,380001,Face Serum,Beauty,4,699,22-01-2025,Net Banking,Delivered
+ORD00983,CUS0222,Aditi Verma,aditi.verma222@example.com,9147911827,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,5,799,01-01-2035,Credit Card,Cancelled
+ORD00984,CUS0208,Tanvi Khan,tanvi.khan208@example.com,9558828107,Jaipur,Rajasthan,302001,Face Serum,Beauty,4,699,28-06-2025,Credit Card,Cancelled
+ORD00985,CUS0312,Rohan Gupta,rohan.gupta312@example.com,9854287223,Delhi,Delhi,110001,Wireless Mouse,Electronics,3,799,10-04-2025,Debit Card,Processing
+ORD00986,CUS0219,Alisha Joshi,alisha.joshi219@example.com,9325006475,Jaipur,Rajasthan,302001,Water Bottle,Home,3,499,11-03-2025,UPI,Returned
+ORD00987,CUS0340,Alisha Mehta,alisha.mehta340@example.com,9831861364,Bengaluru,Karnataka,560001,Wireless Mouse,Electronics,2,799,03-02-2025,Credit Card,Cancelled
+ORD00988,CUS0362,Arjun Joshi,arjun.joshi362@example.com,9304591481,Jaipur,Rajasthan,302001,Running Shoes,Fashion,1,-499,02-03-2025,Cash on Delivery,Returned
+ORD00989,CUS0026,Ananya Jain,ananya.jain26@example.com,9337434795,Kolkata,West Bengal,700001,Running Shoes,Fashion,1,2499,06-09-2025,Net Banking,Processing
+ORD00990,CUS0275,Ananya Sharma,ananya.sharma275@example.com,9813337032,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,4,599,01-03-2025,Net Banking,Cancelled
+ORD00991,CUS0347,Sneha Joshi,sneha.joshi347@example.com,9586535694,Mumbai,Maharashtra,400001,Desk Organizer,Stationery,4,599,14-11-2025,UPI,Shipped
+ORD00992,CUS0170,Varun Iyer,varun.iyer170@example.com,9105601237,Mumbai,Maharashtra,400001,Water Bottle,Home,5,499,17-05-2025,Cash on Delivery,Returned
+ORD00993,CUS0229,Riya Iyer,riya.iyer229@example.com,9543642238,Nagpur,Maharashtra,440001,Running Shoes,Fashion,2,2499,08-06-2025,Credit Card,Delivered
+ORD00994,CUS0045,Aarav Khan,aarav.khan45@example.com,9951689304,Nagpur,Maharashtra,440001,Desk Organizer,Stationery,5,599,17-08-2025,Credit Card,Delivered
+ORD00995,CUS0375,Diya Khan,diya.khan375@example.com,9884352341,Pune,Maharashtra,411001,Wireless Mouse,Electronics,2,799,08-01-2025,Cash on Delivery,Shipped
+ORD00996,CUS0012,Ishaan Patel,ishaan.patel12@example.com,9757433142,Nagpur,Maharashtra,440001,Wireless Mouse,Electronics,3,799,14-02-2025,Cash on Delivery,Shipped
+ORD00997,CUS0048,Arjun Patel,arjun.patel48@example.com,9300850213,Delhi,Delhi,110001,Shampoo,Beauty,3,399,16-05-2025,Debit Card,Shipped
+ORD00998,CUS0067,Alisha Gupta,alisha.gupta67@example.com,9841974106,Mumbai,Maharashtra,400001,Running Shoes,Fashion,4,2499,11-02-2025,Net Banking,Delivered
+ORD00999,CUS0032,Yash Jain,yash.jain32@example.com,9151267748,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,1,1499,22-03-2025,Cash on Delivery,Delivered
+ORD00999,CUS0032,Yash Jain,yash.jain32@example.com,9151267748,Nagpur,Maharashtra,440001,Bluetooth Speaker,Electronics,1,1499,22-03-2025,Cash on Delivery,Delivered
